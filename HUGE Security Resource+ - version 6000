@@ -1,0 +1,2676 @@
+CRYPTOME.ORG
+
+31 August 2012
+
+http://pastebin.com/raw.php?i=f3Z4fQvK
+
+ ===============================================================
+      HUGE Security Resource+ - version 6000 - 08/31/2012
+                   (Security + Trimmings!)
+
+,.-----> CHANGELOG:
+|
+| 1. Added a crazy amount of new links.
+| 2. Fixed 'OpenBSD' links incorrectly assigned to previous section 5000
+| 3. Merged 'Security Blogs' at bottom to proper section 6005
+| 4. Removed most titles/descriptions of links to reduce clutter & ease use
+|    While this may make it more difficult to find exactly what you're
+|    after, it's cleaner, leaner, and easier to navigate through. This
+|    is especially true for the guys maintaining this document. There is
+|    some labeling/titles here and there, but most of the heavily
+|    verbose titles/descriptions of various entries have been removed.
+| 5. Merged 'Pubs' & 'Forums' to 6007 & 6006
+| 6. Removed several duplicate and broken links
+| 7. Fixed some links (pages had moved) and a few typos
+| 8. Sorta sorted sections
+| 9. Renamed project title from 'HUGE Security Resource' to
+|    'HUGE Security Resource+', meaning, with this version and
+|    future versions this document will contain more than
+|    security related material. (currently a work in progress)
+|10. Released v.6000 despite a large number of remaining links we
+|    would like to include, but they will come with our next release.
+|___________________________________
+|
+| Sections, version 6000, 08/31/2012
+| 
+| 6000: Wikipedia (all links here found within Wikipedia)
+| 6001: Suggested Books
+| 6002: Articles, Guides, How To's
+| 6003: Antivirus LiveCDs - boot and scan your system for malware
+| 6004: Random Links (flooded with links - to be organized soon)
+| 6005: Security Blogs
+| 6006: Security Forums (Web based Discussion Forums)
+| 6007: Security Magazines & Zines
+| 6008: Linux Anti-Malware Scanners
+| 6009: Linux Security
+|       \_ 6009.1 Articles
+|       \_ 6009.2 Tools
+|       \_ 6009.3 Various+
+| 6010: Windows Security Tools
+|___________________________________
+
+** 6000: Wikipedia :
+         (Some links aren't directly related to security.)
+         (This section may be split into different sections)
+         (in a future version.)
+
+https://en.wikipedia.org/wiki/Acoustic_cryptanalysis
+https://en.wikipedia.org/wiki/Acoustic_fingerprint
+https://en.wikipedia.org/wiki/Advanced_Persistent_Threat
+https://en.wikipedia.org/wiki/Agent_handling
+https://en.wikipedia.org/wiki/Agent_provocateur
+https://en.wikipedia.org/wiki/Aircrack-ng
+https://en.wikipedia.org/wiki/Amateur_radio
+https://en.wikipedia.org/wiki/Anonymizer
+https://en.wikipedia.org/wiki/Anonymous_remailer
+https://en.wikipedia.org/wiki/ARP_poisoning
+https://en.wikipedia.org/wiki/ARP_spoofing
+https://en.wikipedia.org/wiki/Arpwatch
+https://en.wikipedia.org/wiki/Audio_signal_processing
+https://en.wikipedia.org/wiki/Automatic_Packet_Reporting_System
+https://en.wikipedia.org/wiki/Backdoor_%28computing%29
+https://en.wikipedia.org/wiki/Behavioral_targeting
+https://en.wikipedia.org/wiki/Bioacoustics
+https://en.wikipedia.org/wiki/BitTorrent_protocol_encryption
+https://en.wikipedia.org/wiki/Black_operation
+https://en.wikipedia.org/wiki/Black_propaganda
+https://en.wikipedia.org/wiki/Black_site
+https://en.wikipedia.org/wiki/Bluebugging
+https://en.wikipedia.org/wiki/Bluejacking
+https://en.wikipedia.org/wiki/Bluesnarfing
+https://en.wikipedia.org/wiki/BrainGate
+https://en.wikipedia.org/wiki/Category:Activism
+https://en.wikipedia.org/wiki/Category:Activism_by_method
+https://en.wikipedia.org/wiki/Category:Amateur_radio
+https://en.wikipedia.org/wiki/Category:American_spies
+https://en.wikipedia.org/wiki/Category:American_whistleblowers
+https://en.wikipedia.org/wiki/Category:Analysis
+https://en.wikipedia.org/wiki/Category:Applications_of_cryptography
+https://en.wikipedia.org/wiki/Category:Applied_ethics
+https://en.wikipedia.org/wiki/Category:Automatic_identification_and_data_capture
+https://en.wikipedia.org/wiki/Category:Barcodes
+https://en.wikipedia.org/wiki/Category:BitTorrent
+https://en.wikipedia.org/wiki/Category:Black_projects
+https://en.wikipedia.org/wiki/Category:Bluetooth
+https://en.wikipedia.org/wiki/Category:Books_about_the_Central_Intelligence_Agency
+https://en.wikipedia.org/wiki/Category:Branches_of_psychology
+https://en.wikipedia.org/wiki/Category:Central_Intelligence_Agency
+https://en.wikipedia.org/wiki/Category:Central_Intelligence_Agency_operations
+https://en.wikipedia.org/wiki/Category:Christianity
+https://en.wikipedia.org/wiki/Category:Christian_terms
+https://en.wikipedia.org/wiki/Category:Civil_disobedience
+https://en.wikipedia.org/wiki/Category:Codecs
+https://en.wikipedia.org/wiki/Category:Code_names
+https://en.wikipedia.org/wiki/Category:COINTELPRO_targets
+https://en.wikipedia.org/wiki/Category:Communication_of_falsehoods
+https://en.wikipedia.org/wiki/Category:Computational_linguistics
+https://en.wikipedia.org/wiki/Category:Computational_statistics
+https://en.wikipedia.org/wiki/Category:Computer_file_formats
+https://en.wikipedia.org/wiki/Category:Computer_networking
+https://en.wikipedia.org/wiki/Category:Computer_network_security
+https://en.wikipedia.org/wiki/Category:Computer_security
+https://en.wikipedia.org/wiki/Category:Computer_security_exploits
+https://en.wikipedia.org/wiki/Category:Computer_security_organizations
+https://en.wikipedia.org/wiki/Category:Computer_security_software
+https://en.wikipedia.org/wiki/Category:Concepts_in_ethics
+https://en.wikipedia.org/wiki/Category:Confidence_tricks
+https://en.wikipedia.org/wiki/Category:Conspiracy_theories
+https://en.wikipedia.org/wiki/Category:Counter-intelligence
+https://en.wikipedia.org/wiki/Category:Counter-terrorism
+https://en.wikipedia.org/wiki/Category:Counter-terrorist_organizations
+https://en.wikipedia.org/wiki/Category:Covert_organizations
+https://en.wikipedia.org/wiki/Category:Critical_thinking
+https://en.wikipedia.org/wiki/Category:Crowd_psychology
+https://en.wikipedia.org/wiki/Category:Cryptanalytic_devices
+https://en.wikipedia.org/wiki/Category:Cryptanalytic_software
+https://en.wikipedia.org/wiki/Category:Cryptographic_attacks
+https://en.wikipedia.org/wiki/Category:Cryptographic_hardware
+https://en.wikipedia.org/wiki/Category:Cryptography
+https://en.wikipedia.org/wiki/Category:Cybercrime
+https://en.wikipedia.org/wiki/Category:Cyberwarfare
+https://en.wikipedia.org/wiki/Category:Data_collection
+https://en.wikipedia.org/wiki/Category:Data_compression
+https://en.wikipedia.org/wiki/Category:Data_security
+https://en.wikipedia.org/wiki/Category:Data_transmission
+https://en.wikipedia.org/wiki/Category:Deception
+https://en.wikipedia.org/wiki/Category:Denial-of-service_attacks
+https://en.wikipedia.org/wiki/Category:Digital_signal_processing
+https://en.wikipedia.org/wiki/Category:Diversionary_tactics
+https://en.wikipedia.org/wiki/Category:Electronic_test_equipment
+https://en.wikipedia.org/wiki/Category:Electronic_warfare
+https://en.wikipedia.org/wiki/Category:Encodings
+https://en.wikipedia.org/wiki/Category:Encryption_devices
+https://en.wikipedia.org/wiki/Category:Espionage
+https://en.wikipedia.org/wiki/Category:Espionage_devices
+https://en.wikipedia.org/wiki/Category:Espionage_projects
+https://en.wikipedia.org/wiki/Category:Espionage_techniques
+https://en.wikipedia.org/wiki/Category:Etiquette
+https://en.wikipedia.org/wiki/Category:File_sharing_networks
+https://en.wikipedia.org/wiki/Category:Gambling_terminology
+https://en.wikipedia.org/wiki/Category:Hacking_%28computer_security%29
+https://en.wikipedia.org/wiki/Category:Historians_of_the_Central_Intelligence_Agency
+https://en.wikipedia.org/wiki/Category:History_of_radio
+https://en.wikipedia.org/wiki/Category:History_of_telecommunications
+https://en.wikipedia.org/wiki/Category:History_of_the_Internet
+https://en.wikipedia.org/wiki/Category:Injection_exploits
+https://en.wikipedia.org/wiki/Category:Intelligence_%28information_gathering%29
+https://en.wikipedia.org/wiki/Category:Intelligence_agencies
+https://en.wikipedia.org/wiki/Category:Intelligence_agencies_by_country
+https://en.wikipedia.org/wiki/Category:Intelligence_analysis
+https://en.wikipedia.org/wiki/Category:Intelligence_operations
+https://en.wikipedia.org/wiki/Category:International_security
+https://en.wikipedia.org/wiki/Category:Interrogation_techniques
+https://en.wikipedia.org/wiki/Category:Law_enforcement
+https://en.wikipedia.org/wiki/Category:Law_enforcement_equipment
+https://en.wikipedia.org/wiki/Category:Law_enforcement_techniques
+https://en.wikipedia.org/wiki/Category:Law_enforcement_terminology
+https://en.wikipedia.org/wiki/Category:Linux_security_software
+https://en.wikipedia.org/wiki/Category:Malware
+https://en.wikipedia.org/wiki/Category:Mass_surveillance
+https://en.wikipedia.org/wiki/Category:Media_manipulation
+https://en.wikipedia.org/wiki/Category:Metaphysics
+https://en.wikipedia.org/wiki/Category:Microscopy
+https://en.wikipedia.org/wiki/Category:Military_communications
+https://en.wikipedia.org/wiki/Category:Military_intelligence
+https://en.wikipedia.org/wiki/Category:Military_operations_by_type
+https://en.wikipedia.org/wiki/Category:Military_organization
+https://en.wikipedia.org/wiki/Category:Military_psychiatry
+https://en.wikipedia.org/wiki/Category:Military_science
+https://en.wikipedia.org/wiki/Category:Military_technology
+https://en.wikipedia.org/wiki/Category:Mind_control
+https://en.wikipedia.org/wiki/Category:Morse_code
+https://en.wikipedia.org/wiki/Category:National_security
+https://en.wikipedia.org/wiki/Category:National_Security_Agency
+https://en.wikipedia.org/wiki/Category:National_Security_Agency_encryption_devices
+https://en.wikipedia.org/wiki/Category:Network_addressing
+https://en.wikipedia.org/wiki/Category:Network_architecture
+https://en.wikipedia.org/wiki/Category:Network_management
+https://en.wikipedia.org/wiki/Category:Neuropsychology
+https://en.wikipedia.org/wiki/Category:Neuroscience
+https://en.wikipedia.org/wiki/Category:Non-fiction_books_about_espionage
+https://en.wikipedia.org/wiki/Category:Non-military_counter-terrorist_organizations
+https://en.wikipedia.org/wiki/Category:Nonverbal_communication
+https://en.wikipedia.org/wiki/Category:Operations_involving_special_forces
+https://en.wikipedia.org/wiki/Category:Organized_crime
+https://en.wikipedia.org/wiki/Category:Packet_radio
+https://en.wikipedia.org/wiki/Category:Paramilitary_organizations
+https://en.wikipedia.org/wiki/Category:People_of_the_Central_Intelligence_Agency
+https://en.wikipedia.org/wiki/Category:Perimeter_security
+https://en.wikipedia.org/wiki/Category:Persuasion_techniques
+https://en.wikipedia.org/wiki/Category:Philosophical_concepts
+https://en.wikipedia.org/wiki/Category:Philosophical_methodology
+https://en.wikipedia.org/wiki/Category:Philosophy
+https://en.wikipedia.org/wiki/Category:Philosophy_of_language
+https://en.wikipedia.org/wiki/Category:Privacy
+https://en.wikipedia.org/wiki/Category:Privacy_of_telecommunications
+https://en.wikipedia.org/wiki/Category:Problem_solving
+https://en.wikipedia.org/wiki/Category:Propaganda
+https://en.wikipedia.org/wiki/Category:Propaganda_in_the_United_States
+https://en.wikipedia.org/wiki/Category:Propaganda_techniques
+https://en.wikipedia.org/wiki/Category:Psychiatric_treatments
+https://en.wikipedia.org/wiki/Category:Psychological_manipulation
+https://en.wikipedia.org/wiki/Category:Psychological_warfare
+https://en.wikipedia.org/wiki/Category:Public-key_cryptography
+https://en.wikipedia.org/wiki/Category:Quantized_radio_modulation_modes
+https://en.wikipedia.org/wiki/Category:Radio
+https://en.wikipedia.org/wiki/Category:Religious_philosophy
+https://en.wikipedia.org/wiki/Category:Researchers_of_the_John_F._Kennedy_assassination
+https://en.wikipedia.org/wiki/Category:Research_methods
+https://en.wikipedia.org/wiki/Category:Rootkits
+https://en.wikipedia.org/wiki/Category:Secrecy
+https://en.wikipedia.org/wiki/Category:Secret_broadcasting
+https://en.wikipedia.org/wiki/Category:Secret_government_programs
+https://en.wikipedia.org/wiki/Category:Secret_military_programs
+https://en.wikipedia.org/wiki/Category:Security
+https://en.wikipedia.org/wiki/Category:Security_companies
+https://en.wikipedia.org/wiki/Category:Signals_intelligence
+https://en.wikipedia.org/wiki/Category:Signals_intelligence_agencies
+https://en.wikipedia.org/wiki/Category:Social_engineering_(computer_security)
+https://en.wikipedia.org/wiki/Category:Solid-state_computer_storage
+https://en.wikipedia.org/wiki/Category:Spies_by_role
+https://en.wikipedia.org/wiki/Category:Statistical_software
+https://en.wikipedia.org/wiki/Category:Steganography
+https://en.wikipedia.org/wiki/Category:Surveillance
+https://en.wikipedia.org/wiki/Category:Survival_skills
+https://en.wikipedia.org/wiki/Category:Telecommunications
+https://en.wikipedia.org/wiki/Category:Telegraphy
+https://en.wikipedia.org/wiki/Category:Theology
+https://en.wikipedia.org/wiki/Category:United_States_Department_of_Defense_agencies
+https://en.wikipedia.org/wiki/Category:United_States_government_secrecy
+https://en.wikipedia.org/wiki/Category:Video_hosting
+https://en.wikipedia.org/wiki/Category:Warfare_by_type
+https://en.wikipedia.org/wiki/Category:Whistleblowers_by_nationality
+https://en.wikipedia.org/wiki/Category:Wireless_networking
+https://en.wikipedia.org/wiki/Category:Works_about_espionage
+https://en.wikipedia.org/wiki/Central_Intelligence_Agency
+https://en.wikipedia.org/wiki/Chaffing_and_winnowing
+https://en.wikipedia.org/wiki/Christianity
+https://en.wikipedia.org/wiki/Church_Committee
+https://en.wikipedia.org/wiki/CIA_influence_on_public_opinion
+https://en.wikipedia.org/wiki/Citizens%27_Commission_to_Investigate_the_FBI
+https://en.wikipedia.org/wiki/Citizens_Rule_Book
+https://en.wikipedia.org/wiki/Clandestine_operation
+https://en.wikipedia.org/wiki/Cointelpro
+https://en.wikipedia.org/wiki/Cold_boot_attack
+https://en.wikipedia.org/wiki/Communications_Assistance_for_Law_Enforcement_Act
+https://en.wikipedia.org/wiki/Comparison_of_BitTorrent_clients
+https://en.wikipedia.org/wiki/Comparison_of_download_managers
+https://en.wikipedia.org/wiki/Comparison_of_portable_media_players
+https://en.wikipedia.org/wiki/Comparison_of_video_hosting_services
+https://en.wikipedia.org/wiki/Comparison_of_VoIP_software
+https://en.wikipedia.org/wiki/CompStat
+https://en.wikipedia.org/wiki/Computer_and_Internet_Protocol_Address_Verifier
+https://en.wikipedia.org/wiki/Computer_insecurity
+https://en.wikipedia.org/wiki/Computer_surveillance
+https://en.wikipedia.org/wiki/Confidence_trick
+https://en.wikipedia.org/wiki/Consensus_reality
+https://en.wikipedia.org/wiki/Covert_operation
+https://en.wikipedia.org/wiki/Cryptographic_hash_function
+https://en.wikipedia.org/wiki/Cut-out_%28espionage%29
+https://en.wikipedia.org/wiki/CyanogenMod
+https://en.wikipedia.org/wiki/Cygwin
+https://en.wikipedia.org/wiki/Data_acquisition
+https://en.wikipedia.org/wiki/Data_remanence
+https://en.wikipedia.org/wiki/Deep_packet_inspection
+https://en.wikipedia.org/wiki/Defense
+https://en.wikipedia.org/wiki/Dehumidifier
+https://en.wikipedia.org/wiki/Deluge_%28software%29
+https://en.wikipedia.org/wiki/Digital_signal_processing
+https://en.wikipedia.org/wiki/Digital_signature
+https://en.wikipedia.org/wiki/Digital_traces
+https://en.wikipedia.org/wiki/DNS_spoofing
+https://en.wikipedia.org/wiki/Doctrine_of_mental_reservation
+https://en.wikipedia.org/wiki/ECHELON
+https://en.wikipedia.org/wiki/Electrical_measurements
+https://en.wikipedia.org/wiki/Electromagnetic_interference
+https://en.wikipedia.org/wiki/Electromagnetic_pulse
+https://en.wikipedia.org/wiki/Electromagnetic_radiation_and_health
+https://en.wikipedia.org/wiki/Electromagnetic_shielding
+https://en.wikipedia.org/wiki/Electromagnetic_spectrum
+https://en.wikipedia.org/wiki/Electronic_signature
+https://en.wikipedia.org/wiki/EMF_measurement
+https://en.wikipedia.org/wiki/Espionage
+https://en.wikipedia.org/wiki/Executable_and_Linkable_Format
+https://en.wikipedia.org/wiki/Exploit_%28computer_science%29
+https://en.wikipedia.org/wiki/Fair_use
+https://en.wikipedia.org/wiki/Family_Jewels_%28Central_Intelligence_Agency%29
+https://en.wikipedia.org/wiki/Faraday_cage
+https://en.wikipedia.org/wiki/Fast_Fourier_Transform
+https://en.wikipedia.org/wiki/Forensic_linguistics
+https://en.wikipedia.org/wiki/Freedom_of_information
+https://en.wikipedia.org/wiki/Freedom_of_information_legislation
+https://en.wikipedia.org/wiki/Free_software
+https://en.wikipedia.org/wiki/Free_speech_zone
+https://en.wikipedia.org/wiki/Frequency_analysis
+https://en.wikipedia.org/wiki/Frequency_counter
+https://en.wikipedia.org/wiki/Fusion_center
+https://en.wikipedia.org/wiki/Gary_Webb
+https://en.wikipedia.org/wiki/Gutmann_method
+https://en.wikipedia.org/wiki/High-frequency_direction_finding
+https://en.wikipedia.org/wiki/Honeypot_%28computing%29
+https://en.wikipedia.org/wiki/Host_protected_area
+https://en.wikipedia.org/wiki/Hosts_file
+https://en.wikipedia.org/wiki/Htaccess
+https://en.wikipedia.org/wiki/HTTP_tunnel_(software)
+https://en.wikipedia.org/wiki/I2P
+https://en.wikipedia.org/wiki/IEEE_802.11i-2004
+https://en.wikipedia.org/wiki/IMSI-catcher
+https://en.wikipedia.org/wiki/Information_visualization
+https://en.wikipedia.org/wiki/Information_wants_to_be_free
+https://en.wikipedia.org/wiki/Infrasound
+https://en.wikipedia.org/wiki/Intelligence_collection_management
+https://en.wikipedia.org/wiki/International_Spy_Museum
+https://en.wikipedia.org/wiki/Internet_protocol_suite
+https://en.wikipedia.org/wiki/Iran-Contra_Affair
+https://en.wikipedia.org/wiki/John_F._Kennedy_assassination_conspiracy_theories
+https://en.wikipedia.org/wiki/Jury_nullification
+https://en.wikipedia.org/wiki/Laser_microphone
+https://en.wikipedia.org/wiki/Linux_malware
+https://en.wikipedia.org/wiki/List_of_CB_slang
+https://en.wikipedia.org/wiki/List_of_codecs
+https://en.wikipedia.org/wiki/List_of_con_artists
+https://en.wikipedia.org/wiki/List_of_confidence_tricks
+https://en.wikipedia.org/wiki/List_of_conspiracies_%28political%29
+https://en.wikipedia.org/wiki/List_of_counterintelligence_organizations
+https://en.wikipedia.org/wiki/List_of_countries_by_Failed_States_Index
+https://en.wikipedia.org/wiki/List_of_criminal_enterprises,_gangs_and_syndicates
+https://en.wikipedia.org/wiki/List_of_defunct_intelligence_agencies
+https://en.wikipedia.org/wiki/List_of_information_graphics_software
+https://en.wikipedia.org/wiki/List_of_intelligence_agencies
+https://en.wikipedia.org/wiki/List_of_intelligence_gathering_disciplines
+https://en.wikipedia.org/wiki/List_of_international_common_standards
+https://en.wikipedia.org/wiki/List_of_Linux_computer_viruses
+https://en.wikipedia.org/wiki/List_of_numerical_analysis_software
+https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers
+https://en.wikipedia.org/wiki/List_of_video_hosting_services
+https://en.wikipedia.org/wiki/MAC_address
+https://en.wikipedia.org/wiki/Magic_Lantern_%28software%29
+https://en.wikipedia.org/wiki/Md5
+https://en.wikipedia.org/wiki/Measuring_receiver
+https://en.wikipedia.org/wiki/Media_manipulation
+https://en.wikipedia.org/wiki/Microexpression
+https://en.wikipedia.org/wiki/Mind_control
+https://en.wikipedia.org/wiki/Mitrokhin_Archive
+https://en.wikipedia.org/wiki/Moscow_rules
+https://en.wikipedia.org/wiki/Musical_acoustics
+https://en.wikipedia.org/wiki/Music_cognition
+https://en.wikipedia.org/wiki/National_Cryptologic_Museum
+https://en.wikipedia.org/wiki/National_Security_Agency
+https://en.wikipedia.org/wiki/Nonverbal_communication
+https://en.wikipedia.org/wiki/Numbers_station
+https://en.wikipedia.org/wiki/OpenBSD_Journal
+https://en.wikipedia.org/wiki/OpenID
+https://en.wikipedia.org/wiki/Operation_Mockingbird
+https://en.wikipedia.org/wiki/Operation_Northwoods
+https://en.wikipedia.org/wiki/Operation_RAFTER
+https://en.wikipedia.org/wiki/Optical_microscope
+https://en.wikipedia.org/wiki/Organizationally_Unique_Identifier
+https://en.wikipedia.org/wiki/OSSEC
+https://en.wikipedia.org/wiki/Packet_radio
+https://en.wikipedia.org/wiki/Palantir_Technologies
+https://en.wikipedia.org/wiki/Panopticon
+https://en.wikipedia.org/wiki/Paralanguage
+https://en.wikipedia.org/wiki/Patriot_Act
+https://en.wikipedia.org/wiki/Perl
+https://en.wikipedia.org/wiki/Phishing
+https://en.wikipedia.org/wiki/Pod_slurping
+https://en.wikipedia.org/wiki/Police_code#The_Hundred_Code
+https://en.wikipedia.org/wiki/Port_forwarding
+https://en.wikipedia.org/wiki/Power_analysis
+https://en.wikipedia.org/wiki/Project_ARTICHOKE
+https://en.wikipedia.org/wiki/Project_Chatter
+https://en.wikipedia.org/wiki/Project_MINARET
+https://en.wikipedia.org/wiki/Project_MKDELTA
+https://en.wikipedia.org/wiki/Project_MKNAOMI
+https://en.wikipedia.org/wiki/Project_MKUltra
+https://en.wikipedia.org/wiki/Project_Shamrock
+https://en.wikipedia.org/wiki/Psikhushka
+https://en.wikipedia.org/wiki/Psychological_manipulation
+https://en.wikipedia.org/wiki/Psychological_Operations_%28United_States%29
+https://en.wikipedia.org/wiki/Public-key_cryptography
+https://en.wikipedia.org/wiki/QBittorrent
+https://en.wikipedia.org/wiki/Q_code
+https://en.wikipedia.org/wiki/QR_Code
+https://en.wikipedia.org/wiki/Radio_direction_finder
+https://en.wikipedia.org/wiki/Reality_mining
+https://en.wikipedia.org/wiki/Red_squad
+https://en.wikipedia.org/wiki/Reid_technique
+https://en.wikipedia.org/wiki/Richard_Stallman
+https://en.wikipedia.org/wiki/Rogue_DHCP
+https://en.wikipedia.org/wiki/Room_641A
+https://en.wikipedia.org/wiki/Rootkit
+https://en.wikipedia.org/wiki/Scopolamine#Use_in_interrogation
+https://en.wikipedia.org/wiki/Scrambler
+https://en.wikipedia.org/wiki/Screencast
+https://en.wikipedia.org/wiki/Secure_Communication
+https://en.wikipedia.org/wiki/Secure_computing
+https://en.wikipedia.org/wiki/Secure_digital_card
+https://en.wikipedia.org/wiki/Secure_telephone
+https://en.wikipedia.org/wiki/Security_engineering
+https://en.wikipedia.org/wiki/Seismology
+https://en.wikipedia.org/wiki/SheevaPlug
+https://en.wikipedia.org/wiki/Shellcode
+https://en.wikipedia.org/wiki/Shill
+https://en.wikipedia.org/wiki/Shortwave
+https://en.wikipedia.org/wiki/Shred_%28Unix%29
+https://en.wikipedia.org/wiki/Side_channel_attack
+https://en.wikipedia.org/wiki/Signal_analysis
+https://en.wikipedia.org/wiki/Silent_speech_interface
+https://en.wikipedia.org/wiki/Simulated_reality
+https://en.wikipedia.org/wiki/Situation_awareness
+https://en.wikipedia.org/wiki/Smartdust
+https://en.wikipedia.org/wiki/Snarfing
+https://en.wikipedia.org/wiki/Sneakernet
+https://en.wikipedia.org/wiki/Software_Defined_Radio
+https://en.wikipedia.org/wiki/Software_patent_debate
+https://en.wikipedia.org/wiki/Sound_synthesis
+https://en.wikipedia.org/wiki/Sousveillance
+https://en.wikipedia.org/wiki/Spectral_leakage
+https://en.wikipedia.org/wiki/Spectral_music
+https://en.wikipedia.org/wiki/Spectrogram
+https://en.wikipedia.org/wiki/Spectrometer
+https://en.wikipedia.org/wiki/Spectrum_analyzer
+https://en.wikipedia.org/wiki/Split_tunneling
+https://en.wikipedia.org/wiki/Spycatcher
+https://en.wikipedia.org/wiki/Spymaster
+https://en.wikipedia.org/wiki/Srm_%28Unix%29
+https://en.wikipedia.org/wiki/Stanford_prison_experiment
+https://en.wikipedia.org/wiki/STASI
+https://en.wikipedia.org/wiki/Steganography
+https://en.wikipedia.org/wiki/Stenomask
+https://en.wikipedia.org/wiki/Street_light_interference_phenomenon
+https://en.wikipedia.org/wiki/Subvocal_recognition
+https://en.wikipedia.org/wiki/Sysctl
+https://en.wikipedia.org/wiki/Telephone_tapping
+https://en.wikipedia.org/wiki/Tempest_%28codename%29
+https://en.wikipedia.org/wiki/Ten-code
+https://en.wikipedia.org/wiki/The_CIA_and_the_Cult_of_Intelligence
+https://en.wikipedia.org/wiki/The_COINTELPRO_Papers
+https://en.wikipedia.org/wiki/Thermal_insulation
+https://en.wikipedia.org/wiki/ThinThread
+https://en.wikipedia.org/wiki/Throat_microphone
+https://en.wikipedia.org/wiki/Timing_attack
+https://en.wikipedia.org/wiki/Tin_foil_hat
+https://en.wikipedia.org/wiki/Tor_%28anonymity_network%29
+https://en.wikipedia.org/wiki/Tradecraft
+https://en.wikipedia.org/wiki/Trailblazer_Project
+https://en.wikipedia.org/wiki/Transmission_%28BitTorrent_client%29
+https://en.wikipedia.org/wiki/TrapWire
+https://en.wikipedia.org/wiki/Trusted_computing
+https://en.wikipedia.org/wiki/Truth_drug
+https://en.wikipedia.org/wiki/United_States_government_security_breaches
+https://en.wikipedia.org/wiki/Van_Eck_phreaking
+https://en.wikipedia.org/wiki/Very_low_frequency
+https://en.wikipedia.org/wiki/Victor_Marchetti
+https://en.wikipedia.org/wiki/Virtual_private_network
+https://en.wikipedia.org/wiki/Voice_procedure
+https://en.wikipedia.org/wiki/Wi-Fi
+https://en.wikipedia.org/wiki/Wi-Fi_Protected_Access
+https://en.wikipedia.org/wiki/Wireless_ad-hoc_network
+https://en.wikipedia.org/wiki/Wireless_mesh_network
+https://en.wikipedia.org/wiki/Wireless_security
+https://en.wikipedia.org/wiki/Write_amplification
+https://en.wikipedia.org/wiki/Writeprint
+https://en.wikipedia.org/wiki/WWV_%28radio_station%29#Standard_frequency_signals
+https://en.wikipedia.org/wiki/Yahweh
+https://en.wikipedia.org/wiki/Z_code
+
+----------------------------------------
+
+** 6001: Suggested Books:
+
+- CLOAK & CORKSCREW: Where CIA Meets Hollywood
+- For the President's Eyes Only: Secret Intelligence and the American Presidency from Washington to Bush
+- Priceless: How I Went Undercover to Rescue the World's Stolen Treasures
+- Radio Frequency Interference: How to Find It and Fix It
+- SAS Survival Handbook, Revised Edition: For Any Climate, in Any Situation 
+- Spycatcher - by Peter Wright
+- The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography
+- Under and Alone: The True Story of the Undercover Agent Who Infiltrated America's Most Violent Outlaw Motorcycle Gang
+
+----------------------------------------
+
+** 6002: Articles, Guides, How To's:
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ (MS Kinect Spy System): http://www.pgpboard.com/viewtopic.php?f=2&t=691
++ (MS Kinect Spy System / Article mirrors): http://pastesite.com/41388 , http://paste.lisp.org/display/131227
++
++ (Spies at MS? / Snippet): http://www.pgpboard.com/viewtopic.php?f=2&t=702
++ (Spies at MS? / Full Article): http://www.pcpro.co.uk/news/security/375169/could-us-cyberspies-have-moles-inside-microsoft
++ (Spies at MS? / Discussion): http://it.slashdot.org/story/12/06/15/1614219/us-security-services-may-have-moles-within-microsoft-says-researcher
++
++ (links, tons of) http://www.loyola.edu/departments/academics/political-science/strategic-intelligence/index.html
++
+http://aboba.drizzlehosting.com/IEEE/
+http://advocacy.globalvoicesonline.org/projects/guide/
+http://all.net/books/document/harvard.html
+http://all.net/journal/50/crypt.html
+http://all.net/journal/50/cybercop.html
+http://all.net/journal/50/ecommerce.html
+http://all.net/journal/50/firewall.html
+http://all.net/journal/deception/index.html
+http://all.net/journal/ntb/index.html
+http://arstechnica.com/information-technology/2012/06/blowing-away-bloatware-a-guide-to-reinstalling-windows-on-a-new-pc/
+http://arstechnica.com/information-technology/2012/07/freeing-your-router-from-ciscos-anti-porn-pro-copyright-cloud-service/
+http://arstechnica.com/tech-policy/news/2011/02/black-ops-how-hbgary-wrote-backdoors-and-rootkits-for-the-government.ars/
+http://arstechnica.com/uncategorized/2007/10/p2p-researchers-use-a-blocklist-or-you-will-be-tracked-100-of-the-time/
+http://asm.sourceforge.net/
+http://blog.bodhizazen.net/linux/ubuntu-how-to-faillog/
+http://blog.spoofed.org/2007/12/openbsd-on-soekris-cheaters-guide.html
+http://blog.webroot.com/2011/09/13/mebromi-the-first-bios-rootkit-in-the-wild/
+http://catless.ncl.ac.uk/risks
+http://citp.princeton.edu/research/memory/
+http://crunchbanglinux.org/wiki/configuring_the_openbox_menu
+http://cryptogon.com/?p=624
+http://cryptogon.com/?p=877
+http://cryptome.org/0002/siss.htm
+http://cryptome.org/0005/cia-iqt-spies.htm
+http://cryptome.org/0005/tor-opsec.htm
+http://cryptome.org/0006/nsa-17-docs.htm
+http://cryptome.org/2012/07/gent-forum-spies.htm
+http://cryptome.org/2012/08/tor-exits-usg-funds-02.htm
+http://cryptome.org/cisco-vile.txt
+http://cryptome.org/isp-spy/online-spying.htm
+http://cryptome.org/nsa-tempest.htm
+http://cryptome.org/nsa-vaneck.htm
+http://cryptome.org/tempest-law.htm
+http://cwe.mitre.org/top25/
+http://debian-handbook.info/browse/stable/
+http://digitalcorpora.org/
+http://en.community.dell.com/support-forums/software-os/w/microsoft_os/3316.2-1-microsoft-windows-7-official-iso-download-links-digital-river.aspx
+http://forums.radioreference.com/
+http://freehaven.net/anonbib/topic.html#Anonymous_20communication
+http://hardware.slashdot.org/story/08/10/20/1248234/compromising-wired-keyboards
+http://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html
+http://it.slashdot.org/story/02/03/09/199242/crt-eavesdropping-optical-tempest
+http://it.slashdot.org/story/09/03/12/2038213/researchers-sniff-keystrokes-from-thin-air-wires
+http://it.slashdot.org/story/09/07/12/0259246/stealing-data-via-electrical-outlet
+http://joernfranz.net/2011/01/20/installing-ubuntu-10-10-with-full-disk-encryption/
+http://lanl.arxiv.org/
+http://lasecwww.epfl.ch/keyboard/
+http://lifehacker.com/205090/geek-to-live--set-up-a-personal-home-ssh-server?tag=softwarehomeserver
+http://lifehacker.com/237227/geek-to-live--encrypt-your-web-browsing-session-with-an-ssh-socks-proxy?tag=softwaressh
+http://linuxpoison.blogspot.com/2009/06/how-to-disable-loading-of-unnecessary.html
+http://log.nadim.cc/?p=78
+http://mnin.org/ (Twitter: https://twitter.com/iMHLv2)
+http://news.cnet.com/2010-1071-997528.html?tag=fd_nc_1 (Archived: http://pastebin.com/nHZzQyB9)
+http://packetlife.net/library/cheat-sheets/
+http://pastebin.com/E1YbqUMV
+http://pastebin.com/JdkqxBAa
+http://pastebin.com/mr5WT30M
+http://pastebin.com/Qf2jHhAb
+http://pastebin.com/TRXkVJ2k
+http://pastebin.com/utY08tLT
+http://pastebin.com/YEbM3Brv
+http://people.csail.mit.edu/rivest/crypto-security.html
+http://people.howstuffworks.com/individual-privacy-channel.htm
+http://people.howstuffworks.com/wiretapping1.htm
+http://pgp.mit.edu/
+http://projects.gnome.org/gdm/docs/2.14/configuration.html?pagewanted=all
+http://projects.wsj.com/surveillance-catalog/
+http://research.google.com/pubs/papers.html
+http://research.google.com/pubs/SecurityCryptographyandPrivacy.html
+https://ccrma.stanford.edu/papers
+http://security-sh3ll.blogspot.com/search/label/Papers
+https://events.ccc.de/congress/2005/static/p/r/o/Category~Projects_1780.html
+https://events.ccc.de/congress/2005/static/r/f/i/RFID-Zapper%28EN%29_77f3.html
+https://isc.sans.edu/port.html
+http://slashdot.org/story/01/01/16/139244/NSA-Reveals-Some-Tempest-Information
+https://live.gnome.org/GDM/2.22/Configuration
+https://memset.wordpress.com/2011/11/26/syscall-hijacking-openbsd/
+http://srg.cs.illinois.edu/srg/biblio
+https://secure.dslreports.com/forum/r27289884-Forensic-Cheat-Sheet
+https://torrentfreak.com/stop-downloading-fakes-and-junk-torrents-071204/
+https://w2.eff.org/Privacy/printers/docucolor/
+https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-publications/csi-studies/index.html
+https://www.cl.cam.ac.uk/~mgk25/emsec/optical-faq.html
+https://www.cl.cam.ac.uk/~mgk25/emsec/softtempest-faq.html
+https://www.defcon.org/html/links/book-list.html
+https://www.eff.org/issues/bloggers/legal/index
+https://www.eff.org/issues/printers
+https://www.eff.org/pages/list-printers-which-do-or-do-not-display-tracking-dots
+https://www.eff.org/testyourisp
+https://www.eff.org/wp/blog-safely
+https://www.eff.org/wp/detecting-packet-injection
+https://www.eff.org/wp/how-not-get-sued-file-sharing/
+https://www.gnu.org/philosophy/
+https://www.gnu.org/philosophy/why-free.html
+https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xml
+https://www.kuro5hin.org/story/2002/11/23/14927/477
+https://www.kuro5hin.org/story/2004/10/26/02313/946
+https://www.net-security.org/articles_main.php
+https://www.networkworld.com/news/2009/070909-electrical-data-theft.html
+https://www.pcworld.com/article/248995/how_to_install_windows_7_without_the_disc.html
+https://www.schneier.com/blog/archives/2005/09/snooping_on_tex.html
+https://www.schneier.com/blog/archives/2007/09/anonymity_and_t_1.html
+https://www.schneier.com/blog/archives/2007/11/hushmail_turns.html
+https://www.schneier.com/blog/archives/2007/12/maninthemiddle.html
+https://www.schneier.com/blog/archives/2009/04/identifying_peo.html
+https://www.schneier.com/blog/archives/2010/01/web_security.html
+https://www.schneier.com/blog/archives/2010/05/detecting_brows.html
+https://www.schneier.com/blog/archives/2010/09/real-time_nsa_e.html
+https://www.schneier.com/blog/archives/2010/12/tor_routers.html
+https://www.schneier.com/blog/archives/2011/03/detecting_words.html
+https://www.schneier.com/blog/archives/2011/03/identifying_tor.html
+https://www.schneier.com/blog/archives/2011/08/identifying_peo_2.html
+https://www.schneier.com/blog/archives/2011/09/identifying_spe.html
+https://www.schneier.com/blog/archives/2011/09/tor_arms_race.html
+https://www.schneier.com/blog/archives/2012/07/how_to_become_a_1.html
+https://www.schneier.com/essay-182.html
+https://www.schneier.com/essay-261.html
+https://www.schneier.com/essay-262.html
+https://www.usenix.org/publications/proceedings
+http://techgurulive.com/2008/09/15/how-to-monitor-and-be-informed-of-ip-address-changes-from-your-network/
+http://tech.slashdot.org/story/99/07/19/1324207/super-shielded-pc-cases
+http://virus.bartolich.at/virus-writing-HOWTO/_html/index.html
+http://web.archive.org/web/20040608141549/http://all.net/journal/netsec/1997-12.html
+http://web.archive.org/web/20060220113124/http://www.dss.mil/training/salinks.htm
+http://web.archive.org/web/20080222191230/http://the.jhu.edu/upe/2004/03/23/about-van-eck-phreaking/
+http://web.archive.org/web/20080820112134/http://www.crash-override.net/bogusdns.html
+http://web.archive.org/web/20090210035245/http://danieldegraaf.afraid.org/info/ipv6
+http://web.archive.org/web/20100916111512/http://www.ibiblio.org/security/articles/ports.html
+http://web.mit.edu/gtmarx/www/iron.html
+http://web.mit.edu/newsoffice/2012/camera-sees-around-corners-0321.html
+http://wiki.wireshark.org/Security
+http://www.ac6v.com/frequencies.htm
+http://www.afterdawn.com/guides/
+http://www.au.af.mil/info-ops/perception.htm
+http://www.backtrack-linux.org/tutorials/
+http://www.backtrack-linux.org/wiki/
+http://www.binarywolf.com/
+http://www.binarywolf.com/249/
+http://www.catb.org/jargon/
+http://www.ciphersbyritter.com/
+http://www.ciphersbyritter.com/GLOSSARY.HTM
+http://www.ciphersbyritter.com/RADELECT/LITES/LEDLITES.HTM
+http://www.ciphersbyritter.com/RADELECT/LITES/LITESFAQ.HTM
+http://www.ciphersbyritter.com/RADELECT/LITES/LITESHOT.HTM
+http://www.ciphersbyritter.com/RADELECT/LITES/XMSLITES.HTM
+http://www.cisco.com/en/US/solutions/ns340/ns414/ns742/ns744/landing_safe.html
+http://www.crypto.com/papers/
+http://www.cryptome.org/0002/nsa-tempest-01.zip
+http://www.cs.auckland.ac.nz/~pgut001/
+http://www.cs.auckland.ac.nz/~pgut001/pubs/secure_del.html
+http://www.cs.tau.ac.il/~tromer/acoustic/
+http://www.cs.wright.edu/~pmateti/InternetSecurity/Lectures/Top/index.html
+http://www.dedoimedo.com/computers/linux-multi-boot.html
+http://www.developer.nokia.com/Community/Wiki/Category:Open_Source
+http://www.developer.nokia.com/Community/Wiki/Nokia_Open_Source
+http://www.dhra.mil/perserec/adr.html
+http://www.dhra.mil/perserec/products.html
+http://www.domenech.org/homebrew-sdr/receiver-1.htm
+http://www.ehow.com/how_8242473_display-ip-addresses-network.html
+http://www.engadget.com/2005/11/15/how-to-build-a-wifi-biquad-dish-antenna/
+http://www.epanorama.net/documents/telecom/telephone_intercom.html
+http://www.ethicalhacker.net/content/view/22/2/
+http://www.exploit-db.com/papers/
+http://www.faqs.org/docs/Linux-HOWTO/XDMCP-HOWTO.html
+http://www.febo.com/pages/baudline/
+http://www.febo.com/time-freq/FMT/technique/index.html
+http://www.forensicswiki.org/
+http://www.garykessler.net/library/fsc_stego.html
+http://www.gnupg.org/
+http://www.heinz.cmu.edu/~acquisti/research.htm
+http://www.ibm.com/developerworks/library/l-keyc2/
+http://www.ibm.com/developerworks/library/l-keyc3/
+http://www.ibm.com/developerworks/library/l-keyc/index.html
+http://www.ieee-security.org/cipher.html
+http://www.ieee-security.org/TC/SP-Index.html
+http://www.ihr.org/jhr/v09/v09p305_Marchetti.html
+http://www.informit.com/articles/article.aspx?p=23463&rll=1
+http://www.itworld.com/security/64193/researchers-find-ways-sniff-keystrokes-thin-air
+http://www.l0t3k.org/programming/docs/reverse/
+http://www.linux-sec.net/Firewall/HowTo/ja.net.private.html
+http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager03.html
+http://www.madboa.com/geek/dig/
+http://www.madboa.com/geek/gpg-quickstart/
+http://www.madboa.com/geek/openssl/
+http://www.madboa.com/geek/openssl/#digest-file
+http://www.madboa.com/geek/pine-ssl/
+http://www.madboa.com/geek/soho-bind/
+http://www.neilgunton.com/doc/index.html?o=1&doc_id=8580
+http://www.neowin.net/forum/topic/934274-freeware-alternative-list/
+http://www.nononsenseselfdefense.com/five_stages.html
+http://www.omgubuntu.co.uk/
+http://www.openrce.org/articles/
+http://www.oreillynet.com/cs/weblog/view/wlg/448
+http://www.oreillynet.com/topics/wireless/802.11
+http://www.phrack.org/issues.html?issue=62&id=6
+http://www.phrack.org/issues.html?issue=66&id=11#article
+http://www.phrack.org/issues.html?issue=66&id=15#article
+http://www.phrack.org/issues.html?issue=66&id=7#article
+http://www.popsci.com/technology/article/2012-07/seeing-through-walls-wireless-router
+http://www.radioreference.com/
+http://www.rfidvirus.org/index.html
+http://www.securityfocus.com/columnists/442/2
+http://www.securityfocus.com/news/11372
+http://www.social-engineer.org/framework/Social_Engineering_Framework
+http://www.symantec.com/connect/articles/forensic-analysis-live-linux-system-pt-1
+http://www.symantec.com/connect/articles/forensic-analysis-live-linux-system-pt-2
+http://www.symantec.com/connect/articles/ip-spoofing-introduction
+http://www.symantec.com/connect/articles/reverse-engineering-hostile-code
+http://www.symantec.com/connect/articles/sebek-3-tracking-attackers-part-one
+http://www.symantec.com/connect/articles/sebek-3-tracking-attackers-part-two
+http://www.symantec.com/connect/articles/social-engineering-fundamentals-part-i-hacker-tactics
+http://www.symantec.com/connect/articles/social-engineering-fundamentals-part-ii-combat-strategies
+http://www.symantec.com/connect/articles/wireless-forensics-tapping-air-part-one
+http://www.symantec.com/connect/articles/wireless-forensics-tapping-air-part-two
+http://www.theregister.co.uk/2012/07/11/multi_platform_backdoor/
+http://www.tuxradar.com/content/learn-hack/
+http://www.vanwensveen.nl/rants/microsoft/IhateMS.html
+http://www.wiley.com/legacy/compbooks/mcnamara/links.html
+http://www.williamson-labs.com/laser-mic.htm
+http://www.zurich.ibm.com/security/idemix/
+http://yro.slashdot.org/story/99/10/25/2039238/declassified-tempest-material-comes-online
+http://yro.slashdot.org/story/99/11/08/093250/coming-to-a-desktop-near-you-tempest-capabilities
+(PDF, EPUB, MOBI, leads to) http://debian-handbook.info/get/now/
+(PDF) ftp://ftp.tapr.org/software_lib/ether/Ham_Ethernet_GBPPR.pdf
+(PDF) http://ai.eller.arizona.edu/COPLINK/publications/CACM_From%20Fingerprint%20to%20Writeprint.pdf
+(PDF) http://cryptome.org/2012/06/ci-glossary.pdf
+(PDF) http://csrc.nist.gov/publications/nistpubs/800-59/SP800-59.pdf
+(PDF) http://csrc.nist.gov/publications/nistpubs/800-84/SP800-84.pdf
+(PDF) http://csrc.nist.gov/publications/nistpubs/800-92/SP800-92.pdf
+(PDF) http://lanl.arxiv.org/pdf/1004.1267v1
+(PDF) http://lanl.arxiv.org/pdf/1109.0597v2
+(PDF) http://lanl.arxiv.org/pdf/1110.5395v3
+(PDF) http://lanl.arxiv.org/pdf/1204.0447v1
+(PDF) http://lanl.arxiv.org/pdf/1208.2877v1
+(PDF) http://packetstormsecurity.org/filedesc/Practical_Onion_Hacking.pdf.html
+(PDF) http://packetstormsecurity.org/files/65944/tempest.pdf
+(PDF) http://srgsec.cs.uiuc.edu/bootjacker.pdf
+(PDF) http://srgsec.cs.uiuc.edu/cloaker.pdf
+(PDF) http://sunnyday.mit.edu/book2.pdf
+(PDF) https://www.cl.cam.ac.uk/%7Emgk25/ieee02-optical.pdf
+(PDF) https://www.cl.cam.ac.uk/~mgk25/ih98-tempest.pdf
+(PDF) https://www.cl.cam.ac.uk/~mgk25/pet2004-fpd.pdf
+(PDF) https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-577.pdf
+(PDF) https://www.eff.org/sites/default/files/packet_injection_0.pdf
+(PDF) https://www.usenix.org/events/sec09/tech/full_papers/sec09_attacks.pdf
+(PDF) http://vulnfactory.org/research/defcon-remote.pdf
+(PDF) http://www.cl.cam.ac.uk/~mgk25/ches2005-limits.pdf
+(PDF) http://www.cl.cam.ac.uk/~mgk25/ieee02-optical.pdf
+(PDF) http://www.cl.cam.ac.uk/~mgk25/ih98-tempest.pdf
+(PDF) http://www.cl.cam.ac.uk/~mgk25/ih99-stegfs.pdf
+(PDF) http://www.cl.cam.ac.uk/~mgk25/pet2004-fpd.pdf
+(PDF) http://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-577.pdf
+(PDF) http://www.crysys.hu/skywiper/skywiper.pdf
+(PDF) http://www.cs.wright.edu/%7Epmateti/InternetSecurity/Lectures/TCPexploits/sec-tcpip.pdf
+(PDF) http://www.fas.org/irp/eprint/nsa-interview.pdf
+(PDF) http://www.governmentattic.org/2docs/Hist_US_COMSEC_Boak_NSA_1973.pdf
+(PDF) http://www.medienwissenschaft.hu-berlin.de/medientheorien/forschung/downloads/hausarbeiten/em-sniffer.pdf
+(PDF) http://www.rfidvirus.org/papers/percom.06.pdf
+(PDF) http://www.toucan-system.com/research/blackhat2012_brossard_hardware_backdooring.pdf
+(PDF) http://www-users.cs.umn.edu/%7Edfrankow/files/lam-etrics2006-security.pdf
+(PDF) http://www-users.cs.umn.edu/%7Edfrankow/files/privacy-sigir2006.pdf
+(PDF, leads to) 
+(PDF, leads to a) http://about-threats.trendmicro.com/ebooks/are-you-protecting-the-data-packets-in-your-pocket/
+(PDF, leads to a) http://ojs.academypublisher.com/index.php/jnw/article/view/jnw0702259266
+(PDF, leads to a) https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-577.html
+(PDF, leads to a) https://www.usenix.org/conference/usenixsecurity12/feasibility-side-channel-attacks-brain-computer-interfaces
+(PDF, leads to a) http://ubuntu-manual.org/downloads
+(PDF, leads to) http://anonymouse.org/cgi-bin/anon-www.cgi/http://www.popsci.com/diy/article/2006-09/stop-dropped-calls
+(PDF, leads to) https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-577.html
+(PDF, leads to) http://wikileaks.org/wiki/Cryptome.org_takedown:_Microsoft_Global_Criminal_Compliance_Handbook,_24_Feb_2010
+(PDF, PS, leads to) http://cacr.uwaterloo.ca/hac/
+(PDF, PS, PPT, DOC, TXT, leads to) http://www.cs.washington.edu/education/courses/csep590/06wi/
+(PDFs, leads to) http://all.net/Analyst/index.html
+(PDFs, leads to) http://reality.media.mit.edu/publications.php
+(PDFs, leads to) https://citizenlab.org/2012/07/from-bahrain-with-love-finfishers-spy-kit-exposed/3/
+(PDFs, leads to) http://srgsec.cs.illinois.edu/Welcome.html
+(PDFs, leads to) http://sunnyday.mit.edu/
+(PDFs, leads to) https://www.cl.cam.ac.uk/~mgk25/
+(PDFs, leads to) https://www.cl.cam.ac.uk/~mgk25/publications.html
+(PDFs, leads to) https://www.cl.cam.ac.uk/research/security/publications/
+(PDFs, leads to) https://www.cl.cam.ac.uk/~rja14/book.html
+(PDFs, leads to) http://web.archive.org/web/20071228064639/http://www.computer.org/portal/site/csdl/index.jsp
+(PDFs, leads to) http://www.amsat.org/amsat/intro/faqs.html
+(PDFs, leads to) http://www.navsea.navy.mil/nswc/dahlgren/Leading%20Edge/default.aspx
+(PDFs, leads to) http://www.pgpi.org/doc/guide/
+(PDFs, leads to) http://www.raulsiles.com/en/Research.html
+(PDFs, leads to) http://www-users.cs.umn.edu/~dfrankow/pubs.htm
+(PDFs, PS, leads to) http://hd.media.mit.edu/TechnicalReportsList.html
+(PDFs, PS, leads to) https://wwws.cs.umn.edu/tech_reports_upload/
+(PDFs, PSs, BibTeX, leads to) http://www.freehaven.net/anonbib/
+recon.cx - (Various Media Formats, leads to) http://2005.recon.cx/recon2005/papers/
+recon.cx - (Various Media Formats, leads to) http://2006.recon.cx/en/f/
+recon.cx - (Various Media Formats, leads to) http://recon.cx/2008/speakers.html
+recon.cx - (Various Media Formats, leads to) http://recon.cx/2010/speakers.html
+recon.cx - (Various Media Formats, leads to) http://recon.cx/2012/schedule/index.en.html
+recon.cx - (Videos, leads to               ) http://archive.org/details/RECON2008
+recon.cx - (Videos, leads to               ) http://archive.org/search.php?query=%22recon%202011%22
+recon.cx - (Videos, leads to               ) http://archive.org/search.php?query=recon%202005%20AND%20mediatype%3Amovies
+recon.cx - (Videos, leads to               ) http://archive.org/search.php?query=recon%202006%20AND%20mediatype%3Amovies
+recon.cx - (Videos, leads to               ) http://archive.org/search.php?query=recon%202012%20AND%20mediatype%3Amovies
+(various document formats, leads to) http://www.grouplens.org/biblio
+(various types of media, links to) https://www.defcon.org/html/links/defcon-media-archives.html
+(videos, leads to) http://web.media.mit.edu/~sandy/videos.html
+----------------------------------------
+
+** 6003: Antivirus LiveCDs - boot and scan your system for malware
+
++ AVG:
+http://www.avg.com/us-en/avg-rescue-cd-download
+
++ AVG ARL: The latest release version of the AVG Rescue CD GNU/Linux (ARL) with daily updated virus database,
+latest alpha or beta version of the ARL and all the resources needed to build the ARL from scratch.
+Releases are signed!
+https://share.avg.com/arl
+
++ Avira:
+https://www.avira.com/en/download/product/avira-antivir-rescue-system
+
++ BitDefender:
+http://download.bitdefender.com/rescue_cd/
+
++ Comodo Rescue Disk (CRD):
+https://www.comodo.com/business-security/network-protection/rescue-disk.php
+
++ Dr.Web LiveCD & LiveUSB:
+http://www.freedrweb.com/livecd/
+http://www.freedrweb.com/liveusb/
+
++ F-Secure:
+https://www.f-secure.com/en/web/labs_global/removal-tools/-/carousel/view/142
+https://www.f-secure.com/en/web/labs_global/removal-tools
+
++ Kaspersky:
+http://support.kaspersky.com/faq/?qid=208282173
+http://support.kaspersky.com/viruses/rescuedisk?level=2
+http://forum.kaspersky.com/index.php?showforum=159
+
++ Microsoft Windows Defender Offline:
+https://connect.microsoft.com/systemsweeper
+
+----------------------------------------
+
+** 6004: Random Links
+         (In a future version these links will each have their own new sections,)
+         (since we've moved beyond mere security related links! As such, many of these links are not security oriented)
+         (This section may appear now to be one big random blob of links, but with our next version, there will spring)
+         (up several new sections of which these will be filed into. We wanted to push this out as a preview of how)
+         (we're expanding beyond security links.)
+
++ Tormail Hidden Service (Requires Tor in order to use):
++ Tor Mail @Hidden Service: http://jhiwjjlqpyawmpjx.onion/
++ Tor Mail Intro @Clearnet: http://www.tormail.org/
+#
+# (large resource) http://blockyourid.com/~gbpprorg/
+# (large resource) http://blockyourid.com/~gbpprorg/mil/
+# http://blockyourid.com/~gbpprorg/mil/vaneck/index.html
+# (large resource) http://www.qsl.net/n9zia/
+# mirrors: http://www.gbppr.org , http://projects1.gbppr.org/ , http://gbppr.dyndns.org/
+#
++ Acoustic Surveillance of Physically Unmodified PCs by Michael LeMay and Jack Tan
++ (PDF) (original but broken link) http://seclab.uiuc.edu/pubs/LeMayT06.pdf
++ (PDF) (found but haven't verified source) http://blockyourid.com/~gbpprorg/mil/vaneck/LeMayT06.pdf
++
+(archive) http://mympxplayer.org/
+http://10minutemail.com
+http://4hv.org/e107_plugins/forum/forum.php
+http://500px.com/
+http://500px.com/MarcinSobas
+http://ai.bpa.arizona.edu/
+http://alphabetizer.flap.tv/
+http://amecisco.com/
+http://anythingbutipod.com/
+http://anythingbutipod.com/forum/
+http://applefritter.com/
+http://applefritter.com/forum
+http://archive.org/create/
+http://archive.org/details/bittorrent
+http://arstechnica.com/
+http://arstechnica.com/civis/
+http://artsandlettersdaily.com/
+http://arxiv.org/
+http://ask.metafilter.com/
+http://askubuntu.com/
+http://attrition.org/
+http://attrition.org/mirror/
+http://batteryuniversity.com/
+http://betanews.com/
+http://bibliodyssey.blogspot.com/
+http://biosbits.org/
+http://blog.bodhizazen.net/
+http://blog.makezine.com/
+http://blogs.amd.com/
+http://blogs.scientificamerican.com/
+http://blogs.valvesoftware.com/linux/steamd-penguins/
+http://boingboing.net/
+http://boston.com/bigpicture/
+http://browserspy.dk/
+http://busybox.net/
+http://cdburnerxp.se/
+http://centralops.net/co/
+http://classical-music-online.net/
+http://commons.wikimedia.org/
+http://consumerist.com/
+http://cubesat.calpoly.edu/
+http://cwe.mitre.org/
+http://cybernetnews.com/
+http://cygwin.com/
+http://cylinders.library.ucsb.edu/index.php
+http://dedoimedo.com/
+http://depositfiles.com/
+http://digg.com/
+http://diit.sourceforge.net/
+http://distrowatch.com/
+http://dmml.asu.edu/resources
+http://documentaryheaven.com/
+http://doihaveadeadpixel.com/
+http://drudgereport.com/
+http://en.memory-alpha.org/wiki/Portal:Main
+http://en.rsf.org/
+http://fab.cba.mit.edu/
+http://faststone.org/
+http://faxzero.com/
+http://fcw.com/Home.aspx
+http://filecrop.com/
+http://forum.crucial.com/
+http://forum.japantoday.com/
+http://forum.notebookreview.com/
+http://forums.anandtech.com/
+http://forums.computeractive.co.uk/
+http://forums.fedoraforum.org/
+http://forums.linuxmint.com
+http://forums.overclockers.com.au
+http://forums.techarena.in/
+http://forums.wi-fiplanet.com/
+http://freeculture.org/
+http://fsi-language-courses.org
+http://gizmodo.com/
+http://glassgiant.com/ascii/
+http://gonullyourself.com/
+http://groupmedia.media.mit.edu/
+http://hardocp.com/
+http://hd.media.mit.edu/
+http://hintsforums.macworld.com/
+http://howtogrowtobacco.com/forum/
+http://howto.wired.com/wiki/Main_Page
+http://html.adobe.com/
+http://imakeprojects.com/Projects/wifi-heartbeat/
+http://imgur.com/
+http://improveverywhere.com/
+http://info.ee.surrey.ac.uk/Personal/Z.Kalal/tld.html
+http://ip-check.info
+http://issihosts.com/haveged/
+http://jesus-is-savior.com/
+http://lanl.arxiv.org/
+http://la-samhna.de/library/rootkits/detect.html
+http://leakdirectory.org/index.php/Leak_Site_Directory
+http://lifehacker.com/
+http://linuxmanpages.com/
+http://linuxmint.com/
+http://linuxpoison.blogspot.com/
+http://linuxscrew.com/
+http://mail.yandex.com/
+http://memegenerator.net/
+http://mentalfloss.com/
+http://meta.wikimedia.org/
+http://mindjustice.org/
+http://mitnicksecurity.com/
+http://multiupload.nl/
+http://mybannermaker.com/
+http://mympx.org/
+http://narus.com/
+http://naturalnews.com/
+http://news.cnet.com/
+http://news.cnet.com/cheapskate/
+http://news.cnet.com/tech-blogs/
+http://news.netcraft.com/
+http://nmap-online.com/
+http://online.wsj.com/
+http://onpointtactical.com/
+http://onstrat.com/osint/#startingpoints
+http://oreilly.com/blogs/
+http://oyc.yale.edu/
+http://packetstormsecurity.org/
+http://pastebin.com/KNtCVkpN
+http://patriotmemory.com/
+http://pdos.csail.mit.edu/~baford/vm/
+http://people.csail.mit.edu/mrub/vidmag/
+http://personal.ee.surrey.ac.uk/Personal/L.Wood/constellations/index.html
+http://photomuse.org/
+http://pipl.com/
+http://portforward.com/
+http://preyproject.com/
+http://project-byzantium.org/
+http://projects.washingtonpost.com/top-secret-america/
+http://qubes-os.org/
+http://rense.com/
+http://rfidguardian.org/
+http://rootzwiki.com/
+http://samate.nist.gov/index.php/Source_Code_Security_Analyzers.html
+https://blog.mozilla.org/
+https://blog.mozilla.org/addons/
+https://blog.mozilla.org/beyond-the-code/
+https://blog.mozilla.org/bhearsum/
+https://blog.mozilla.org/blog/author/chrismozillacom/
+https://blog.mozilla.org/blog/category/firefox/
+https://blog.mozilla.org/calendar/
+https://blog.mozilla.org/futurereleases/
+https://blog.mozilla.org/gen/
+https://blog.mozilla.org/it/
+https://blog.mozilla.org/labs/
+https://blog.mozilla.org/ligong/
+https://blog.mozilla.org/mobile/
+https://blog.mozilla.org/nnethercote/
+https://blog.mozilla.org/privacy/
+https://blog.mozilla.org/services/
+https://blog.mozilla.org/theden/
+https://blog.mozilla.org/thunderbird/
+https://blog.mozilla.org/tilt/
+https://blog.mozilla.org/webdev/
+https://blog.mozilla.org/website-archive/
+http://schizophrenia.com/
+http://sclipo.com/
+https://code.google.com/p/corkami/
+https://code.google.com/p/googlecl/
+https://community.rapid7.com/community/infosec/blog/2012/08/08/finfisher
+https://creativecommons.org/
+http://screenshots.debian.net/
+http://searchengineland.com/
+https://en.wikipedia.org/wiki/Bing_Mobile#Bing_411
+https://en.wikipedia.org/wiki/List_of_PDF_software
+https://en.wikipedia.org/wiki/Main_Page
+https://epic.org/
+https://epic.org/privacy/tools.html
+https://fedoraproject.org/
+https://freedom-to-tinker.com/
+https://github.com/djrbliss/rose-exploit
+http://slashdot.org/
+http://slickdeals.net/
+https://lists.apple.com/mailman/listinfo/security-announce
+https://mashable.com/
+https://one.ubuntu.com/services/
+http://soundcloud.com/
+http://sourceforge.net/projects/diit/
+http://sourceforge.net/projects/nfienfcollector/
+https://panopticlick.eff.org/
+http://species.wikimedia.org/
+http://spectrum.ieee.org/
+http://spectrum.ieee.org/blogs
+http://spectrum.ieee.org/blog/tech-talk
+http://spectrum.mit.edu/articles/normal/fab-lab/ (article)
+https://personaltelco.net/wiki
+http://spywareinfoforum.com/
+https://s3.amazonaws.com/data.tumblr.com/tumblr_lxyvchLFXx1r1ylbfo1_500.jpg
+https://secure.dslreports.com/faq
+http://stallman.org/
+https://torrentfreak.com/
+https://twitter.com/corkami
+http://support.ntp.org/bin/view/Support/WebHome
+http://swann.com
+https://www.amnesty.org/
+https://www.blackhat.com/index.html
+https://www.ccc.de/
+https://www.cert.org/
+https://www.chillingeffects.org/
+https://www.commondreams.org/
+https://www.computerworld.com/
+https://www.defcon.org/
+https://www.defcon.org/html/links/dc-tools.html
+https://www.eff.org/
+https://www.eff.org/deeplinks/
+https://www.eff.org/pages/switzerland-network-testing-tool
+https://www.erowid.org/
+https://www.flickr.com/
+https://www.grc.com
+https://www.imagineshop.co.uk/
+https://www.infoworld.com/
+https://www.libreoffice.org/
+https://www.linuxquestions.org/
+https://www.linuxquestions.org/questions/
+https://www.mi5.gov.uk/
+https://www.microsoft.com/communities/forums/default.mspx
+https://www.microsoft.com/security/scanner/en-us/default.aspx
+https://www.myspace.com/
+https://www.networkworld.com/
+https://www.npr.org/blogs/health/
+https://www.opendns.com/technology/dnscrypt/
+https://www.propublica.org/
+https://www.safe-mail.net/
+https://www.sans.org/
+https://www.technologyreview.com/computing/
+https://www.un.org/
+https://www.un.org/en/documents/udhr/index.shtml
+https://www.youtube.com/
+https://www.youtube.com/results?search_query=Randy+Quaid+Star+Whackers
+https://www.youtube.com/ucberkeley
+http://techliberation.com/
+http://technorati.com/
+http://techreport.com/
+http://techreport.com/forums/
+http://thebrowser.com/
+http://topdocumentaryfilms.com/
+http://totse2.com/
+http://trapkit.de/
+http://truth-out.org/
+http://turnoffyourtv.com/
+http://tutvid.com
+http://ubuntuforums.org/
+http://urlget.sourceforge.net/
+http://usahitman.com/
+http://vigilantcitizen.com/
+http://vigilantcitizen.com/vcboards/
+http://web.archive.org/web/20040202004210/http://www.cs.auckland.ac.nz/~pgut001/links.html
+http://web.archive.org/web/20040206214035/http://www.cs.auckland.ac.nz/~pgut001/links/archives.html
+http://web.archive.org/web/20060831063210/http://faculty.ncwc.edu/toconnor/reform.htm
+http://web.archive.org/web/20060831063224/http://faculty.ncwc.edu/toconnor/data.htm
+http://web.archive.org/web/20060831081811/http://faculty.ncwc.edu/toconnor/thnktank.htm
+http://web.archive.org/web/20070207050215/http://faculty.ncwc.edu/toconnor/sources.htm
+http://web.archive.org/web/20070217052232/http://faculty.ncwc.edu/TOConnor/427/427links.htm
+http://webcast.berkeley.edu/
+http://web.media.mit.edu/~sandy/
+http://web.mit.edu/mitei/news/index.html
+http://web.mit.edu/newsoffice/
+http://web.mit.edu/zacka/www/midas.html
+http://web.mit.edu/zacka/www/projects.html
+http://wificamera.propositions.org.uk/
+http://wificamera.propositions.org.uk/Panoramic-Wifi-Camera
+http://wiki.echelon2.org/wiki/Main_Page
+http://wikitravel.org/
+http://wisp.wikispaces.com
+http://www1.informatik.uni-erlangen.de/tresor
+http://www.4shared.com/
+http://www.5min.com/
+http://www.academicearth.org/
+http://www.aclu.org/
+http://www.addictivetips.com/
+http://www.allmyfaves.com/
+http://www.anandtech.com/
+http://www.au.af.mil/au/awc/awcgate/awc-ndex.htm
+http://www.au.af.mil/au/awc/awcgate/awc-port.htm
+http://www.au.af.mil/au/awc/awcgate/awc-ref.htm
+http://www.au.af.mil/au/awc/awcgate/awc-thkg.htm
+http://www.au.af.mil/au/awc/awcgate/awc-thkg.htm#critical
+http://www.avforums.com/forums/
+http://www.bashoneliners.com/
+http://www.bbb.org/
+http://www.bbc.co.uk/iplayer/radio
+http://www.betabeat.com/
+http://www.bloomberg.com/news/worldwide/
+http://www.bluesnews.com/
+http://www.brainpickings.org/
+http://www.brickhousesecurity.com/
+http://www.brokentoaster.com/butterflymp3/index.html
+http://www.bugmenot.com/
+http://www.businessweek.com/
+http://www.buzzfeed.com/
+http://www.cbradiotalk.com/index.php
+http://www.cerias.purdue.edu/
+http://www.chromium.org/
+http://www.cicentre.com/
+http://www.codecademy.com/
+http://www.complaints.com/
+http://www.consumerworld.org/
+http://www.copyscape.com/
+http://www.coreboot.org/
+http://www.coreboot.org/SeaBIOS
+http://www.cosmolearning.com/
+http://www.cracked.com/
+http://www.crucial.com
+http://www.cryptome.org/
+http://www.c-spanvideo.org/videoLibrary/
+http://www.cultdeadcow.com/
+http://www.cyberciti.biz/
+http://www.dafont.com/
+http://www.dailymotion.com/
+http://www.damninteresting.com/
+http://www.defectivebydesign.org/
+http://www.differencebetween.net/
+http://www.digital-detective.co.uk/
+http://www.digital-digest.com/index.php
+http://www.disclose.tv/
+http://www.disclose.tv/forum/
+http://www.discoverbing.com/mobile
+http://www.dlib.indiana.edu/collections/
+http://www.dmoz.org/Computers/Internet/E-mail/Spam/Preventing/Temporary_Addresses/
+http://www.dogbitelaw.com/
+http://www.doom9.org/
+http://www.downforeveryoneorjustme.com/
+http://www.economist.com/
+http://www.ehow.com/
+http://www.emaildiscussions.com/
+http://www.endangeredlanguages.com/
+http://www.engadget.com
+http://www.engadget.com/
+http://www.epanorama.net/index2.php?section=documents&index=audio
+http://www.evga.com/forums/
+http://www.ew.com/ew/
+http://www.eweek.com/
+http://www.extremetech.com/
+http://www.fabathome.org/
+http://www.fakenamegenerator.com/
+http://www.fark.com/
+http://www.filestube.com/
+http://www.folkstreams.net/
+http://www.forbes.com/
+http://www.freerepublic.com
+http://www.freesoftwaremagazine.com/
+http://www.ft.com/
+http://www.gamefront.com/
+http://www.gameinformer.com/
+http://www.geekstogo.com/forum/
+http://www.giveawayoftheday.com/
+http://www.gizmag.com/
+http://www.godlikeproductions.com
+http://www.groklaw.net/
+http://www.gutenberg.org/wiki/Main_Page
+http://www.gwu.edu/~nsarchiv/
+http://www.hackermedia.org/
+http://www.head-fi.org/f/
+http://www.hellomagazine.com/
+http://www.hitb.org/
+http://www.howcast.com/
+http://www.howstuffworks.com/
+http://www.hulu.com/
+http://www.i2p2.de/
+http://www.ibiblio.org/
+http://www.ic3.gov/default.aspx
+http://www.imdb.com/title/tt0071360/
+http://www.imdb.com/title/tt0120660/
+http://www.imdb.com/title/tt0128278/
+http://www.imdb.com/title/tt0308808/
+http://www.imdb.com/title/tt0489037/
+http://www.inchem.org/
+http://www.informationclearinghouse.info/
+http://www.informationweek.com/
+http://www.infowars.com/
+http://www.internetnews.com/
+http://www.inventgeek.com/blog/
+http://www.irfanview.com/
+http://www.itworld.com/
+http://www.itworld.com/blogs/sandra-henry-stocker
+http://www.japantoday.com/
+http://www.jjtc.com/Security/stegtools.htm
+http://www.jjtc.com/Steganography/
+http://www.khanacademy.org/
+http://www.ladyada.net/make/
+http://www.ladyada.net/make/mintyboost/index.html
+http://www.ladyada.net/make/minty/index.html
+http://www.last.fm/
+http://www.linuxfoundation.org/
+http://www.lipstickalley.com/
+http://www.liveleak.com/
+http://www.mail-archive.com/
+http://www.mcgrewsecurity.com/tools/msramdmp/
+http://www.mediafire.com/
+http://www.medicalnewstoday.com/
+http://www.metafilter.com/
+http://www.minutemanproject.com/
+http://www.myfishtank.net/forum/
+http://www.nasdaq.com/
+http://www.nationaldefensemagazine.org
+http://www.nationmaster.com/
+http://www.neowin.net/
+http://www.neowin.net/forum/
+http://www.net.princeton.edu/software/dhcp_probe/
+http://www.nist.gov/public_affairs/tech-beat (archives:) http://www.nist.gov/public_affairs/tech-beat/archives.cfm
+http://www.nutsvolts.com/
+http://www.nutsvolts.com/index.php?/blog/
+http://www.officer.com/
+http://www.ok.co.uk/home/
+http://www.okmagazine.com/
+http://www.omgubuntu.co.uk/
+http://www.opcva.com/watchdog/
+http://www.openculture.com/
+http://www.openrightsgroup.org/
+http://www.openstreetmap.org/
+http://www.opentopia.com/hiddencam.php
+http://www.open-video.org/
+http://www.osnews.com/
+http://www.patriotmemory.com/forums
+http://www.pbs.org/
+http://www.pbs.org/wgbh/pages/frontline/
+http://www.people.com/people/
+http://www.phonescoop.com/
+http://www.phoronix.com/
+http://www.phoronix.com/forums/
+http://www.pool.ntp.org/en/
+http://www.princeton.edu/WebMedia/lectures/
+http://www.printfriendly.com/
+http://www.psychologytoday.com/
+http://www.quora.com/
+http://www.qwiki.com/
+http://www.radaronline.com/
+http://www.raspberrypi.org/
+http://www.readprint.com/
+http://www.reddit.com/
+http://www.reuters.com/
+http://www.rollingstone.com/
+http://www.rootkit.nl/projects/lynis.html
+http://www.rssweather.com
+http://www.scientificamerican.com/article.cfm?id=hackers-can-steal-from-reflections
+http://www.seabios.org/SeaBIOS
+http://www.seattle.intel-research.net/wisp/
+http://www.shacknews.com/
+http://www.sigsac.org/
+http://www.slashfilm.com/
+http://www.slashgear.com/
+http://www.songkick.com/
+http://www.soyouwanna.com/
+http://www.spamhaus.org/
+http://www.spychips.com/
+http://www.stallman.org/
+http://www.stallman.org/archives/
+http://www.sutree.com/
+http://www.synchtube.com/
+http://www.tcpipguide.com/free/t_toc.htm
+http://www.techdirt.com/
+http://www.technologyreview.com/
+http://www.tech-recipes.com/
+http://www.techspot.com/
+http://www.techsupportforum.com/
+http://www.techsupportforum.com/forums/
+http://www.ted.com/
+http://www.theregister.co.uk/
+http://www.theverge.com/
+http://www.thisiscolossal.com/
+http://www.thoughtcrime.org/software/sslsniff/
+http://www.timeanddate.com/worldclock/
+http://www.tmz.com/
+http://www.tomshardware.com/index.html
+http://www.tuxradar.com/
+http://www.tvguide.com/
+http://www.ubuntu.com/
+http://www.urbandictionary.com/
+http://www.usbwifi.orconhosting.net.nz/
+http://www.ustream.tv/
+http://www.vanityfair.com/
+http://www.variety.com/Home/
+http://www.videojug.com/
+http://www.vidipedia.org/
+http://www.wardriving.com/
+http://www.warriorsofthe.net/index.html
+http://www.weather.com/
+http://www.webcitation.org/
+http://www.wi-fiplanet.com/
+http://www.wikibooks.org/
+http://www.wikihow.com/Main-Page
+http://www.wikileaks.org/
+http://www.wikinews.org/
+http://www.wikipedia.org/
+http://www.wikiquote.org/
+http://www.wikisource.org/
+http://www.wikiversity.org/
+http://www.wiktionary.org/
+http://www.winsupersite.com/
+http://www.winsupersite.com/blogcontent/supersite-blog-39
+http://www.wired.com/
+http://www.wired.com/about/blogs
+http://www.wireimage.com/
+http://www.wotsit.org/
+http://www.xnview.com/
+http://www.youtube-mp3.org/
+http://www.zoklet.net/
+http://www.zophar.net/
+http://zombiehunters.org/forum/
+(magazine) http://www.linuxidentity.com/
+(online virus scanner) https://www.virustotal.com/
+(online virus scanner) http://virusscan.jotti.org/en
+(PDF)  http://csrc.nist.gov/publications/nistir/7316/NISTIR-7316.pdf
+(PDFs, leads to) http://dmml.asu.edu/research/pubs
+(PDFs, leads to) http://groupmedia.media.mit.edu/publications.php
+(PDFs, leads to) http://hd.media.mit.edu/badges/publications.html
+(PDFs, leads to) http://linuxnewmedia.com/Products/Print
+(PDFs, leads to) http://www.public.asu.edu/~huanliu/publications.html
+(PDFs, leads to) http://www.public.asu.edu/~huanliu/sbp09/program.html
+(PDFs, leads to) http://www.seattle.intel-research.net/pubs.php
+(PDFs, PPTs, leads to) http://www.public.asu.edu/~huanliu/sbp08/program.html
+(Power Pwn) http://hardware.slashdot.org/story/12/07/22/0335223/the-darpa-funded-power-strip-that-will-hack-your-network
+(Power Pwn) http://pwnieexpress.com/
+(Power Pwn) http://pwnieexpress.com/blogs/news
+(Power Pwn) http://www.zdnet.com/power-pwn-this-darpa-funded-power-strip-will-hack-your-network-7000001331/
+(Power Pwn - PDF) http://cryptome.org/2012/07/cbp072312.pdf
+(view PDFs online!) http://view.samurajdata.se/
+----------------------------------------
+
+** 6005: Security Blogs:
+
+#
+# Most Powerful Voices in Security Who are the Top 25?
+# The Rest of the Top 100 -
+# * 100 security guru's listed with their Twitter pages
+# and personal/blog sites: (Sep. 8, 2011) Posted here as one
+# link rather than posting around 100 Twitter personal pages.
+# http://www.sys-con.com/node/1974029
+#
++
++ http://blog.layeredsec.com/ (Archive) - https://twitter.com/brycegalbraith (Author moved to Twitter)
++
++ (archive) https://pinvoke.wordpress.com/
++
++ (archive) http://superantispyware.com/blog/
++
++ (click month at right for archives) https://yorkporc.wordpress.com/
+*
+* https://wiki.debian.org/FreedomBox
+*
++
++ http://anonymouse.org/cgi-bin/anon-www.cgi/http://www.malwaredomainlist.com/
++ (via Anonymouse because of ban on Tor exit nodes)
++
++ http://anonymouse.org/cgi-bin/anon-www.cgi/http://www.securitywire.com/
++ (via Anonymouse to evade Tor exit node ban)
++
++ (archive) http://www.teamfurry.com/wordpress/
++
++ (archive) http://securityincite.com/blog/mike-rothman
++
++ http://anonymouse.org/cgi-bin/anon-www.cgi/http://robert.penz.name/
++ (via Anonymouse: Tor exit node ban evasion by proxy)
++
+http://aconaway.com/
+http://anonymous.livelyblog.com/
+http://anti-virus-rants.blogspot.com/
+http://bgpmon.net/blog/
+http://blog.brickhousesecurity.com/
+http://blog.c22.cc/
+http://blog.clamav.net/
+http://blog.commandlinekungfu.com/
+http://blog.crysys.hu/
+http://blog.cuckoosandbox.org/
+http://blog.cyberwar.nl/
+http://blog.deepsec.net/
+http://blog.didierstevens.com/
+http://blog.emsisoft.com/
+http://blog.eset.com/ 
+http://blog.fireeye.com/research
+http://blog.gerhards.net/
+http://blog.ine.com/
+http://blog.infosanity.co.uk/
+http://blog.ioshints.info/
+http://blog.lse.epita.fr/
+http://blog.mandiant.com/
+http://blog.oxff.net/
+http://blog.rootshell.be/
+http://blogs.appriver.com/
+http://blogs.cisco.com/category/security
+http://blog.secureideas.net/
+http://blog.security4all.be/
+http://blogs.iss.net/
+http://blog.snort.org/
+http://blogs.pcmag.com/securitywatch/
+http://blog.spiderlabs.com/
+http://blog.spywareguide.com/
+http://blogs.securiteam.com/
+http://blog.stopbadware.org/
+http://blog.tenablesecurity.com/
+http://blog.threatexpert.com/
+http://blog.trendmicro.com/
+http://blog.tsa.gov/
+http://blog.uncommonsensesecurity.com/
+http://blog.watchfire.com/wfblog/
+http://blog.webroot.com/
+http://blog.zoller.lu/
+http://blog.zx2c4.com/
+http://blog.zynamics.com/
+http://brandonjcarroll.com/
+http://cansecwest.com/
+http://carnal0wnage.attackresearch.com/
+http://cerias.purdue.edu/site/blog/author/spaf
+http://chargen.matasano.com/
+http://chris-intel-corner.blogspot.com/
+http://chuvakin.blogspot.com/
+http://ciscoiseasy.blogspot.com/
+http://coffeetocode.net/
+http://community.websense.com/blogs/securitylabs/
+http://community.websense.com/blogs/securitylabs/default.aspx
+http://computer-forensics.sans.org/blog
+http://computer-forensics.sans.org/blog/
+http://computer.forensikblog.de/en/
+http://comsecllc.blogspot.com/
+http://contagiodump.blogspot.com/
+http://cryptocomb.org/
+http://crypto.stanford.edu/
+http://cyb3rcrim3.blogspot.com/
+http://cyberspeak.libsyn.com/
+http://dankaminsky.com/
+http://darkreading.com/
+http://daveshackleford.com/
+http://ddanchev.blogspot.com/
+http://ddos.arbornetworks.com/
+http://deadliestwebattacks.com/
+http://deepsec.net/
+http://dhs-daily-report.blogspot.com/
+http://digfor.blogspot.com/
+http://digitalforensicsisascience.blogspot.com
+http://dshield.org/
+http://dvlabs.tippingpoint.com/blog
+http://dvlabs.tippingpoint.com/blog/
+http://elie.im/blog/
+http://emergentchaos.com/
+http://erratasec.blogspot.com/
+http://etherealmind.com/category/blog/
+http://etherealmind.com/category/blog/security/
+http://eusecwest.com/
+http://evilrouters.net/
+http://fasthorizon.blogspot.com/
+http://forensicaliente.blogspot.com/
+http://forensicfocus.blogspot.com/
+http://forensicmethods.com/
+http://forensicsfromthesausagefactory.blogspot.com/
+http://fraudwar.blogspot.com/
+http://fumalwareanalysis.blogspot.com/
+http://garwarner.blogspot.com/
+http://girlunallocated.blogspot.com
+http://gleeda.blogspot.com/
+http://googleonlinesecurity.blogspot.com/
+http://grandstreamdreams.blogspot.com/
+http://gregsowell.com/
+http://ha.ckers.org/blog (Archive)
+http://hackingcisco.blogspot.com/
+http://holisticinfosec.blogspot.com/
+http://honeyblog.org/
+http://inciweb.org/
+http://infolookup.securegossip.com/
+http://infosecisland.com/
+http://intelnews.org/
+http://invisiblethings.org/
+http://it-audit.sans.org/blog/
+http://jeremiahgrossman.blogspot.com/
+http://jessekornblum.livejournal.com/
+http://journeyintoir.blogspot.com/
+http://justaskweg.com/
+http://krebsonsecurity.com/
+http://labs.m86security.com/ (Archive)
+http://lastwatchdog.com/
+http://log.nadim.cc
+http://lonesysadmin.net/
+http://maliciousattacker.blogspot.com/
+http://marienfeldt.com/
+http://mnin.org/
+http://nakedsecurity.sophos.com/
+http://netsecurity.about.com/
+http://netsecurity.about.com/compute/netsecurity/
+http://network-101.blogspot.com/
+http://news.cnet.com/security
+http://news.hitb.org/
+http://news.softpedia.com/cat/Security/
+http://news.techworld.com/security/
+http://offensivecoder.com/blog/
+http://p4r4n0id.com/ (appears to be gone, we'll see)
+http://packetlife.net/blog/
+http://packetstormsecurity.org/news/
+http://pacsec.jp/
+http://paranoia.dubfire.net/ (Home: http://www.dubfire.net/) (Twitter: https://twitter.com/csoghoian)
+http://pauldotcom.com/
+http://penguininside.blogspot.com/
+http://pen-testing.sans.org/blog/
+http://philosecurity.org/
+http://polarwave.blogspot.com/
+http://praetorianprefect.com/
+http://pseudo-flaw.net/log/index
+http://publicintelligence.net/
+http://randomthoughtsofforensics.blogspot.com
+http://rdist.root.org/
+http://recon.cx
+http://resources.infosecinstitute.com/
+http://revolutionwifi.blogspot.com/
+http://rijmenants.blogspot.com/
+https://365.rsaconference.com/blogs/critical-infrastructure
+https://365.rsaconference.com/blogs/ediscovery
+https://365.rsaconference.com/blogs/fred-stock
+https://365.rsaconference.com/blogs/ira-winkler
+https://365.rsaconference.com/blogs/rsa-conference-blog
+https://365.rsaconference.com/blogs/securityreading
+https://amtso.wordpress.com/
+https://blog.avast.com/
+https://blog.mozilla.org/security/
+https://blog.opendns.com/
+https://blogs.adobe.com/psirt/
+https://blogs.mcafee.com/
+https://blogs.mcafee.com/mcafee-labs
+https://blogs.technet.com/b/sysinternals/
+https://blogs.technet.com/mmpc/default.aspx
+https://blogs.technet.com/msrc/
+https://blog.torproject.org/
+https://blog.whitehatsec.com/
+https://chainmailcheck.wordpress.com/
+https://citizenlab.org/category/news/
+https://community.rapid7.com/community/infosec/blog
+https://community.rapid7.com/community/metasploit/blog
+https://devcentral.f5.com/Home/Blogs/tabid/1082195/Default.aspx
+https://devcentral.f5.com/weblogs/macvittie/Default.aspx
+http://seclists.org/
+http://securityandrisk.blogspot.com/
+http://securityblog.verizonbusiness.com/
+http://securitybraindump.blogspot.com/
+http://security-sh3ll.blogspot.com/
+http://securityvulns.com/
+http://securosis.com/blog
+https://fightinginsecurity.wordpress.com/
+https://gregness.wordpress.com/
+http://sketchymoose.blogspot.com/
+https://memset.wordpress.com/
+https://news.ycombinator.com/
+http://software-security.sans.org/blog/
+http://spectrum.ieee.org/blog/riskfactor
+https://psal.cs.drexel.edu/index.php/Main_Page
+http://spyblog.org.uk/
+https://secunia.com/advisories/
+https://ssd.eff.org/ 
+https://techbuddha.wordpress.com/
+http://stratsec.blogspot.com/
+https://twitter.com/hackinthebox
+https://twitter.com/markrussinovich
+http://superconductor.voltage.com/
+http://swann.com/s/products/newsrelease/
+https://www.adobe.com/support/security/
+https://www.brandenwilliams.com/blog/
+https://www.eff.org/
+https://www.grc.com/securitynow.htm
+https://www.ibm.com/developerworks/
+https://www.ibm.com/developerworks/aix/library/
+https://www.ibm.com/developerworks/linux/
+https://www.ibm.com/developerworks/topics/
+https://www.mozilla.org/security/announce/
+https://www.net-security.org/
+https://www.sans.org/newsletters/
+https://www.sans.org/newsletters/#newsbites
+https://www.sans.org/newsletters/#ouch
+https://www.sans.org/newsletters/#risk
+https://www.schneier.com/
+https://www.securelist.com/en/weblog
+https://www.trustedsec.com/news-and-events/
+https://www.usenix.org/conferences
+https://www.veracode.com/blog/
+http://taosecurity.blogspot.com/
+http://technicalinfodotnet.blogspot.com/
+http://thehackernews.com/
+http://thehiddenevil.com/
+http://theinvisiblethings.blogspot.com/
+http://threatpost.com/
+http://threatthoughts.com/
+http://ticklethewire.com/
+http://tk-blog.blogspot.com/
+http://toorcon.org/
+http://travisgoodspeed.blogspot.com/
+http://volatility.tumblr.com/
+http://vrt-blog.snort.org/
+http://vulnfactory.org/blog/
+http://web.archive.org/web/20100528020113/http://milw0rm.com/
+http://windowsir.blogspot.com/
+http://wordpress.bladeforensics.com/
+http://www.acunetix.com/blog/
+http://www.afcea.org/signal/signalscape/
+http://www.allspammedup.com/
+http://www.backtrack-linux.org/blog/
+http://www.bigbrotherwatch.org.uk/
+http://www.blackbag.nl/
+http://www.blindhog.net/
+http://www.bunniestudios.com/wordpress/
+http://www.businessinsider.com/defense
+http://www.businessinsider.com/defense/infosec
+http://www.businessinsider.com/warroom
+http://www.capnfreedom.com/
+http://www.catonmat.net/
+http://www.cerias.purdue.edu/site/blog
+http://www.cerias.purdue.edu/site/blog/
+http://www.cgisecurity.com/
+http://www.ciscoarticles.com/
+http://www.clerkendweller.com/
+http://www.corecom.com/html/wlan.html
+http://www.cristoncox.com/
+http://www.cryptogon.com/
+http://www.cryptome.org/
+http://www.cryptosmith.com/
+http://www.cyberwarnews.info/
+http://www.darknet.org.uk/
+http://www.darkreading.com/blog
+http://www.devttys0.com/blog/
+http://www.educatedguesswork.org/
+http://www.ehacking.net/
+http://www.emergingthreatspro.com/blog/
+http://www.ericjhuber.com/
+http://www.esecurityplanet.com/
+http://www.esecurityplanet.com/hackers
+http://www.esecurityplanet.com/malware
+http://www.eweek.com/c/s/Security/
+http://www.exploit-db.com/
+http://www.exploit-id.com/
+http://www.fas.org/blog/secrecy/
+http://www.fas.org/blog/ssp/
+http://www.federaltimes.com/
+http://www.financialcryptography.com/
+http://www.flyingpenguin.com/
+http://www.forensic4cast.com/
+http://www.forensickb.com/
+http://www.forensicswiki.org/
+http://www.frontlinesentinel.com/
+http://www.f-secure.com/weblog
+http://www.gfi.com/blog/
+http://www.gfi.com/blog/labs/
+http://www.hackaday.com/
+http://www.heinz.cmu.edu/~acquisti/shb/participants.htm
+http://www.hexacorn.com/blog/
+http://www.hexblog.com/
+http://www.honeynet.org/
+http://www.h-online.com/
+http://www.h-online.com/developer/
+http://www.h-online.com/open/
+http://www.h-online.com/security/
+http://www.hotforsecurity.com/
+http://www.ibm.com/developerworks/security/
+http://www.infosecblog.org/
+http://www.infosecurity-magazine.com/blog/
+http://www.insearchoftech.com/
+http://www.irongeek.com/
+http://www.irongeek.com/ 
+http://www.itstactical.com/ 
+http://www.l0t3k.org/en/
+http://www.ledge.co.za/software/lpinotes/
+http://www.lightbluetouchpaper.org/
+http://www.links.org/
+http://www.liquidmatrix.org/blog/
+http://www.lovemytool.com/
+http://www.mckeay.net/
+http://www.my80211.com/
+http://www.neowin.net/forum/topic/934274-freeware-alternative-list/
+http://www.net-security.org/
+http://www.networkworld.com/topics/security.html
+http://www.nowtheendbegins.com/blog/
+http://www.nowtheendbegins.com/blog/?cat=4
+http://www.nsa.gov/
+http://www.offensivecomputing.net/ (moving to: http://openmalware.org/)
+http://www.offensive-security.com/blog/
+http://www.officer.com/latest-news
+http://www.openrce.org/articles/
+http://www.packetstormsecurity.org/
+http://www.paranoidprose.com/
+http://www.pgpboard.com/
+http://www.pinewswire.net/
+http://www.policemisconduct.net
+http://www.prevx.com/blog.asp
+http://www.rationalsurvivability.com/blog/
+http://www.reddit.com/r/malware
+http://www.reddit.com/r/reverseengineering
+http://www.reversinglabs.com/blog
+http://www.schneier.com/
+http://www.scmagazine.com/the-data-breach-blog/section/1263/
+http://www.seclist.us/
+http://www.secsocial.com/blog/
+http://www.securingthehuman.org/blog/
+http://www.securitybsides.com
+http://www.securityfocus.com/
+http://www.securityfocus.com/archive
+http://www.security-ray.com/
+http://www.securitytracker.com/
+http://www.securityweek.com/
+http://www.sensepost.com/blog/
+http://www.shellguardians.com/
+http://www.shmoo.com/news/
+http://www.shmoocon.org/
+http://www.skullbox.net/index.php
+http://www.social-engineer.org/framework/Social_Engineering_Framework
+http://www.standalone-sysadmin.com/blog/
+http://www.stratumsecurity.com/company/blog/
+http://www.survivalblog.com/
+http://www.symantec.com/business/security_response/weblog/
+http://www.symantec.com/connect/security/blogs
+http://www.sysadminblogs.com/planet/
+http://www.sysforensics.org/
+http://www.teamshatter.com/
+http://www.techrepublic.com/blog/security
+http://www.thedarkvisitor.com/
+http://www.thedigitalstandard.blogspot.com/
+http://www.theemailadmin.com/
+http://www.thegeekstuff.com/
+http://www.thegeekstuff.com/best-of-the-blog/
+http://www.theintelligencenews.com/
+http://www.theregister.co.uk/security/
+http://www.thesecuritysamurai.com/
+http://www.thetechherald.com/security
+http://www.troyhunt.com/
+http://www.trusteer.com/blog
+http://www.whenisfive.com
+http://www.wikileaks.org/
+http://www.wired.com/about/blogs/
+http://www.wired.com/dangerroom
+http://www.wired.com/threatlevel/
+http://www.wlanpros.com/
+http://www.wmarkbrooks.com/
+http://www.woodmann.com/forum/blog.php 
+http://www.wrgross.com/blogs/security/
+http://www.wrgross.com/blogs/security/category/openbsd/
+http://www.zdnet.com/blog/security/
+http://www.zerodayinitiative.com/advisories/published/
+http://www.zerodayinitiative.com/advisories/upcoming
+(videos, leads to) http://www.irongeek.com/i.php?page=security/hackingillustrated
+
+----------------------------------------
+
+** 6006: Security Forums (Web based Discussion Forums)
+
+http://cocoontech.com/forums/
+http://forum.bitdefender.com
+http://forum.prisonplanet.com
+http://forums.avg.com/
+http://forums.comodo.com/
+http://forums.hak5.org/
+http://forums.officer.com/forums/
+http://forums.windowsecurity.com
+http://glocktalk.com/forums/
+http://hardforum.com/showthread.php?t=781545
+http://homecommunity.cisco.com/
+http://www.antionline.com/
+http://www.ar15.com/forums/
+http://www.backtrack-linux.org/forums
+http://www.binrev.com/forums/
+http://www.defencetalk.com/forums/
+http://www.dslreports.com/forum/cleanup
+http://www.dslreports.com/forum/scambusters
+http://www.dslreports.com/forum/security
+http://www.dslreports.com/forum/wsecurity
+http://www.hex-rays.com/forum/
+http://www.networking-forum.com/
+http://www.sherdog.net/forums/
+http://www.survivalistboards.com/
+http://www.wilderssecurity.com/
+http://www.wilderssecurity.com/showthread.php?t=242949
+http://www.woodmann.com/forum/forum.php
+----------------------------------------
+
+** 6007: Security Magazines & Zines
+
+http://about-threats.trendmicro.com/ebooks/
+http://bsdmag.org/
+http://chmag.in/
+http://chmag.in/issue/all
+http://commons.oreilly.com/wiki/index.php/O%27Reilly_Commons
+http://gonullyourself.com/ezines/
+http://gonullyourself.com/zine/
+http://hakin9.org/
+http://linuxformat.com/
+http://magazine.hackinthebox.org/
+http://magazine.hitb.org/
+http://secureviewmag.com/
+https://www.net-security.org/insecuremag.php
+http://ubuntupocketguide.com/index_main.html
+http://www.2600.com/
+http://www.admin-magazine.com/
+http://www.dwheeler.com/secure-programs/
+http://www.linuxpromagazine.com/
+http://www.linuxuser.co.uk/
+http://www.phrack.com/
+http://www.textfiles.com/ (RE: https://en.wikipedia.org/wiki/Textfiles.com)
+http://www.thegeekstuff.com/linux-101-hacks-ebook/
+http://www.uninformed.org/
+----------------------------------------
+
+** 6008: Linux Anti-Malware Scanners
+
+See Also: 6003: Antivirus LiveCDs - boot and scan your system for malware
+
++ Avast:
+http://www.avast.com/linux-home-edition
+
++ AVG:
+http://free.avg.com/ww-en/download.prd-alf.tpl-stdfull
+
++ Bitdefender:
+http://www.bitdefender.com/media/html/en/unicesportal/
+http://www.bitdefender.com/business/antivirus-for-unices.html
+http://unices.bitdefender.com
+http://www.bitdefender.com/support/Bitdefender-for-Linux-manual-updates-224.html
+
+++ Bitdefender repos (may be older than version obtainable above via registration & email):
+http://download.bitdefender.com/repos/deb/
+http://download.bitdefender.com/repos/rpm/
+
++ ClamAV:
+http://www.clamav.net/
+http://sourceforge.net/projects/clamav/
+
++ ClamTk is a GUI front-end for ClamAV
+http://clamtk.sourceforge.net/
+http://sourceforge.net/projects/clamtk/
+
++ Collage:
+http://gtnoise.net/projects/7-anti-censorship/7-collage-defeating-censorship-with-user-generated-content
+
++ Comodo Antivirus for Linux (CAVL):
+http://forums.comodo.com/comodo-antivirus-for-linux-cavl/comodo-antivirus-for-linux-cavl-v102398181-is-formally-released-t85030.0.html
+http://forums.comodo.com/comodo-antivirus-for-linux-cavl-b275.0/
+
++ Coroner's Toolkit, The:
+http://www.porcupine.org/forensics/tct.html
+
++ F-PROT:
+http://www.f-prot.com/download/home_user/download_fplinux.html
+
++ F-PROT FRONT-END: QtFprot is a frontend for FPROT 4.x, a free (for personal use) Linux virus-scanner
+http://freecode.com/projects/qtfprot
+
++ F-PROT FRONT-END: XFPROT is a graphical frontend for the F-Prot Antivirus for Linux Small Business Edition.
+http://freecode.com/projects/xfprot
+http://web.tiscali.it/sharp/xfprot/
+
+----------------------------------------
+
+** 6009: Linux Security
+         --------------
+* 6009.1: Linux Articles (a few of these aren't security related and will eventually be moved to a new section):
+         ---------------
+http://alien.slackbook.org/dokuwiki/doku.php?id=slackware:parentalcontrol
+http://ask.slashdot.org/story/05/07/20/1457252/network-intrusion-detection-and-prevention
+http://csrc.nist.gov/
+http://csrc.nist.gov/publications/PubsSPs.html
+http://doc.opensuse.org/documentation/html/openSUSE_113/opensuse-apps/cha.crypto.html
+http://doc.opensuse.org/documentation/html/openSUSE_113/opensuse-apps/cha.gnome.crypto.html
+http://emergingthreats.net/
+http://en.gentoo-wiki.com/wiki/HOWTO_Iptables_for_newbies
+http://freeworld.thc.org/papers/anonymous-unix.html
+http://honeypots.sourceforge.net/modified_script.html
+http://it.slashdot.org/story/05/04/19/232230/bastille-adds-reporting-grabs-fed-attention
+http://it.slashdot.org/story/06/03/14/1842248/pgp-creators-zfone-encrypts-voip
+http://linuxblog.darkduck.com/
+http://linuxgazette.net/121/anonymous.html
+http://linux-ip.net/html/ether-arp.html
+http://linuxpoison.blogspot.com/2008/01/howto-check-disk-drive-for-errors-and.html
+http://netwizards.co.uk/installing-tripwire-on-ubuntu/
+http://nmap.org/book/osdetect.html
+http://nmap.org/book/toc.html
+http://ornellas.apanela.com/dokuwiki/pub:firewall_and_adv_routing
+http://penguininside.blogspot.se/2009/09/10-panel-dock-applications-for-your.html
+http://people.redhat.com/pvrabec/openscap/guide.html
+http://planet.netfilter.org/
+http://project.honeynet.org/papers/individual/
+http://project.honeynet.org/papers/kye.html
+http://projects.gnome.org/gdm/docs/2.14/configuration.html
+http://psychocats.net/ubuntu/index.php
+https://delightlylinux.wordpress.com/
+https://delightlylinux.wordpress.com/2012/06/14/secure-delete/
+http://securitywatch.eweek.com/rootkits/rootkits_on_a_pci_card.html
+https://fedoraproject.org/wiki/DocsProject/UsingGpg/CreatingKeys
+https://fedoraproject.org/wiki/How_to_create_and_use_a_Live_CD
+https://fedoraproject.org/wiki/How_to_create_and_use_Live_USB
+https://fedoraproject.org/wiki/JeroenVanMeeuwen/Revisor/FedoraRebrandRemixGuidelines
+https://help.ubuntu.com/community/EncryptedPrivateDirectory
+https://help.ubuntu.com/community/FileIntegrityAIDE
+https://help.ubuntu.com/community/GnuPrivacyGuardHowto
+https://help.ubuntu.com/community/LinuxLogFiles
+https://help.ubuntu.com/community/Logwatch
+https://help.ubuntu.com/community/StricterDefaults
+https://secure.wikimedia.org/wikibooks/en/wiki/Grsecurity/Appendix/Grsecurity_and_PaX_Configuration_Options
+https://wiki.debian.org/
+https://wiki.debian.org/iptables
+https://wiki.debian.org/SecureApt
+https://wiki.debian.org/SystemAdministration
+https://wiki.ubuntu.com/
+https://wiki.ubuntu.com/BasicSecurity
+https://wiki.ubuntu.com/BasicSecurity/DidIJustGetOwned
+https://wiki.ubuntu.com/Security/Features
+https://www.cert.org/tech_tips/unix_configuration_guidelines.html
+https://www.cs.arizona.edu/stork/packagemanagersecurity/faq.html
+https://www.ibm.com/developerworks/linux/library/l-proc/index.html
+https://www.ibm.com/developerworks/linux/tutorials/l-lockdown1/
+https://www.ibm.com/developerworks/linux/tutorials/l-lockdown2/index.html
+https://www.linux.com/
+https://www.linux.com/learn/tutorials/456149-manage-passwords-encryption-keys-and-more-with-seahorse
+https://www.linuxquestions.org/questions/linux-security-4/security-references-45261/
+https://www.owasp.org
+https://www.sans.org/reading_room/
+https://www.schneier.com/crypto-gram.html
+http://tldp.org/HOWTO/AX25-HOWTO/index.html
+http://tldp.org/HOWTO/Secure-Programs-HOWTO/buffer-overflow.html
+http://tldp.org/LDP/nag2/index.html
+http://trac.secdev.org/scapy/wiki/IdentifyingRogueDHCPServers
+http://web.archive.org/web/20040215020827/http://www.linux-mag.com/2003-09/acls_01.html
+http://web.archive.org/web/20041031074320/http://sun.soci.niu.edu/~rslade/secgloss.htm
+http://web.archive.org/web/20041125131921/http://tips.linux.com/tips/04/11/23/2022252.shtml?tid=100&tid=47&tid=35
+http://web.archive.org/web/20041231085409/http://www.cs.auckland.ac.nz/~pgut001/links.html
+http://web.archive.org/web/20050306035558/http://www.spitzner.net/linux.html
+http://web.archive.org/web/20060712182215/http://linuxgazette.net/128/saha.html
+http://web.archive.org/web/20090109020415/http://www.securityfocus.com/print/infocus/1414
+http://web.archive.org/web/20100529035423/http://www.cert.org/current/services_ports.html
+http://wiki.centos.org/HowTos/Network/IPTables
+http://winhelp2002.mvps.org/hosts.htm
+http://www.acsu.buffalo.edu/~charngda/elf.html
+http://www.alwanza.com/howTo/linux/tripwire.html
+http://www.bitbull.ch/wiki/index.php/Hacking_Notes
+http://www.bitbull.ch/wiki/index.php/Linux_Short_Reference
+http://www.brandonhutchinson.com/iptables_fw.html
+http://www.codeproject.com/KB/cpp/shared_object_injection_1.aspx#brief_elf_str_code1
+http://www.cromwell-intl.com/security/intrusion-analysis/
+http://www.cryptovirology.com/cryptovfiles/cryptovirologyfaqver1.html#whatiscryptoviralextortion
+http://www.cs.arizona.edu/stork/packagemanagersecurity/faq.html
+http://www.cs.wright.edu/~pmateti/Courses/233/Labs/OS-on-USB/OSonUSBLabKnoppix671DVD.html
+http://www.cs.wright.edu/~pmateti/InternetSecurity/Lectures/BufferOverflow/alephOne.html
+http://www.cs.wright.edu/~pmateti/InternetSecurity/Lectures/Fortification/obrien.html
+http://www.cs.wright.edu/~pmateti/InternetSecurity/Lectures/Probing/How%20to%20Handle%20Network%20Probes.htm
+http://www.cyberciti.biz/
+http://www.cyberciti.biz/faq/add-remove-list-linux-kernel-modules/
+http://www.cyberciti.biz/faq/how-to-detect-arp-spoofing-under-unix-or-linux/
+http://www.cyberciti.biz/hardware/linux-iotop-simple-top-like-io-monitor/
+http://www.cyberciti.biz/tips/howto-log-user-activity-using-process-accounting.html
+http://www.cyberciti.biz/tips/iptables-mac-address-filtering.html
+http://www.cyberciti.biz/tips/linux-iptables-10-how-to-block-common-attack.html
+http://www.cyberciti.biz/tips/linux-iptables-8-how-to-avoid-spoofing-and-bad-addresses-attack.html
+http://www.cyberciti.biz/tips/linux-security.html
+http://www.cyberciti.biz/tips/linux-unix-windows-find-hidden-processes-tcp-udp-ports.html
+http://www.cyberciti.biz/tips/top-linux-monitoring-tools.html
+http://www.debianadmin.com/
+http://www.debianadmin.com/filesystem-encryption-tools-for-linux.html
+http://www.debian-administration.org/
+http://www.debian-administration.org/articles/49
+http://www.debian.org/doc/
+http://www.debian.org/doc/manuals/
+http://www.debian.org/doc/manuals/securing-debian-howto/
+http://www.debian.org/doc/manuals/securing-debian-howto/ch-sec-services.en.html#s-firewall-setup
+http://www.debian.org/events/keysigning
+http://www.debuntu.org/intrusion-detection-with-aide
+http://www.desktoplinux.com/articles/AT3341468184.html
+http://www.desktoplinux.com/articles/AT7966076367.html
+http://www.dshield.org/diary.html?storyid=13057
+http://www.exploit-db.com/
+http://www.faqs.org/docs/Linux-HOWTO/User-Authentication-HOWTO.html
+http://www.gentoo.org/doc/en/gnupg-user.xml
+http://www.hackinglinuxexposed.com/articles/
+http://www.hackinglinuxexposed.com/articles/20030703.html
+http://www.hackinglinuxexposed.com/articles/20030709.html
+http://www.howtoforge.com/intrusion_detection_base_snort
+http://www.ibiblio.org/pub/Linux/docs/HOWTO/other-formats/html_single/Disk-Encryption-HOWTO.html
+http://www.ibm.com/developerworks/aix/library/au-aix-manage-ruby/index.html
+http://www.ibm.com/developerworks/aix/library/au-speakingunix10/index.html
+http://www.ibm.com/developerworks/aix/library/au-speakingunix11/index.html
+http://www.ibm.com/developerworks/aix/library/au-speakingunix12/index.html
+http://www.ibm.com/developerworks/aix/library/au-speakingunix13/index.html
+http://www.ibm.com/developerworks/aix/library/au-speakingunix2.html
+http://www.ibm.com/developerworks/aix/library/au-speakingunix3.html
+http://www.ibm.com/developerworks/aix/library/au-speakingunix4/index.html
+http://www.ibm.com/developerworks/aix/library/au-speakingunix5.html
+http://www.ibm.com/developerworks/aix/library/au-speakingunix6.html
+http://www.ibm.com/developerworks/aix/library/au-speakingunix7.html
+http://www.ibm.com/developerworks/aix/library/au-speakingunix8/index.html
+http://www.ibm.com/developerworks/aix/library/au-speakingunix9/index.html
+http://www.ibm.com/developerworks/aix/library/au-spunix_greattools/index.html
+http://www.ibm.com/developerworks/aix/library/au-unix-commandline/index.html
+http://www.ibm.com/developerworks/library/l-keyc2/
+http://www.ibm.com/developerworks/library/l-keyc3/
+http://www.ibm.com/developerworks/library/l-keyc/index.html
+http://www.ibm.com/developerworks/linux/library/l-livecdsec/?ca=dgr-lnxw07SecurityLiveCD
+http://www.justlinux.com/nhf/Security/IPtables_Basics.html
+http://www.la-samhna.de/library/rootkits/index.html
+http://www.ledge.co.za/software/lpinotes/
+http://www.linuxbsdos.com/2011/05/10/how-to-install-ubuntu-11-04-on-an-encrypted-lvm-file-system/
+http://www.linuxforums.org/articles/understanding-elf-using-readelf-and-objdump_125.html
+http://www.linuxhomenetworking.com/
+http://www.linuxhomenetworking.com/wiki/index.php/Quick_HOWTO_:_Ch14_:_Linux_Firewalls_Using_iptables
+http://www.linuxjournal.com/
+http://www.linux.org/
+http://www.linuxplanet.com/linuxplanet/tutorials/4505/1
+http://www.linuxsecurity.com
+http://www.linuxsecurity.com/
+http://www.linuxsecurity.com/content/view/117644/49/
+http://www.linuxsecurity.com/content/view/118211/49/
+http://www.linuxsecurity.com/content/view/119415/49/
+http://www.linuxsecurity.com/docs/colsfaq.html
+http://www.livecdlist.com/
+http://www.madboa.com/geek/gpg-quickstart/
+http://www.madboa.com/geek/openssl/#digest-file
+http://www.madboa.com/geek/pine-ssl/
+http://www.netfilter.org/documentation/
+http://www.novell.com/communities/node/4971/detecting-arp-poisoning-attacks
+http://www.phrack.com/issues.html?issue=58&id=7#article
+http://www.phrack.org/issues.html?issue=68&id=9#article
+http://www.porcupine.org/forensics/column.html
+http://www.psychocats.net/ubuntu/minimal
+http://www.securityfocus.com/firewalls
+http://www.securityfocus.com/ids
+http://www.securityfocus.com/incidents
+http://www.securityfocus.com/unix
+http://www.seifried.org/security/ids/20020107-honeypot-vmware-basics.html
+http://www.symantec.com/connect/articles/alien-autopsy-reverse-engineering-win32-trojans-linux
+http://www.symantec.com/connect/articles/detecting-and-removing-malicious-code
+http://www.symantec.com/connect/articles/detecting-rootkits-and-kernel-level-compromises-linux
+http://www.symantec.com/connect/articles/forensic-analysis-live-linux-system-pt-1
+http://www.symantec.com/connect/articles/forensic-analysis-live-linux-system-pt-2
+http://www.symantec.com/connect/articles/hacker-tools-and-their-signatures-part-three-rootkits
+http://www.symantec.com/connect/articles/hardening-tcpip-stack-syn-attacks
+http://www.symantec.com/connect/articles/host-integrity-monitoring-best-practices-deployment
+http://www.symantec.com/connect/articles/reverse-engineering-hostile-code
+http://www.symantec.com/connect/articles/sniffers-what-they-are-and-how-protect-yourself
+http://www.symantec.com/connect/topics/security/securityfocus
+http://www.techrepublic.com/article/10-things-you-should-do-to-a-new-linux-pc-before-exposing-it-to-the-internet/5987648
+http://www.thc.org/
+http://www.thc.org/papers/fw-backd.htm
+http://www.thegeekstuff.com/2010/03/netstat-command-examples/
+http://www.thegeekstuff.com/2010/11/50-linux-commands/
+http://www.thegeekstuff.com/2010/12/50-unix-linux-sysadmin-tutorials/
+http://www.thegeekstuff.com/2011/06/iptables-rules-examples/
+http://www.thegeekstuff.com/2011/12/linux-performance-monitoring-tools/
+http://www.tldp.org/HOWTO/Encrypted-Root-Filesystem-HOWTO/
+http://www.tldp.org/HOWTO/Linux%2BIPv6-HOWTO/index.html
+http://www.tracking-hackers.com/misc/faq.html
+http://www.ubuntugeek.com/tools-to-delete-files-securely-in-ubuntu-linux.html
+http://www.unixwiz.net/techtips/iguide-crypto-hashes.html
+http://www.whenisfive.com/tutorials/tor-polipo-5-minute-install-guide-ubuntu-11-0411-10/
+http://www.yolinux.com/TUTORIALS/LinuxSecurityTools.html
+(multicd script) http://multicd.tuxfamily.org/
+(multicd script related) http://ubuntuforums.org/showthread.php?t=1071869
+(PDF) http://csrc.nist.gov/publications/nistir/7316/NISTIR-7316.pdf
+(PDF) http://csrc.nist.gov/publications/nistpubs/800-84/SP800-84.pdf
+(PDF) http://csrc.nist.gov/publications/nistpubs/800-92/SP800-92.pdf
+(PDF) http://events.ccc.de/congress/2006/Fahrplan/attachments/1167-SpeakingAnonymously.pdf
+(PDF) http://web.archive.org/web/20070717124745/http://www.tldp.org/linuxfocus/English/Archives/lf-2003_01-0278.pdf
+(PDF) http://www.linux-magazine.com/issue/01/File_Permissions.pdf
+(PDFs) http://www.nsa.gov/ia/mitigation_guidance/security_configuration_guides/operating_systems.shtml
+
+          --------------------
+* 6009.2: Linux Security Tools
+         (the intention here is not to list everything, hence the link to BackTrack which
+          contains a number of useful tools which could otherwise be linked here.)
+          --------------------
+
+++ SecTools.Org: Top 125 Network Security Tools
+http://sectools.org/
+
++ AIDE:
+http://sourceforge.net/projects/aide/
+http://sourceforge.net/projects/aide
+http://freecode.com/projects/aide
+
++ AppArmor:
+http://wiki.apparmor.net/index.php/Main_Page
+http://www.linux-magazine.com/Issues/2006/69/AppArmor-vs.-SELinux
+(PDF) http://www.linux-magazine.com/content/download/63096/487061/file/AppArmor_vs_SELinux.pdf
+https://lkml.org/lkml/2006/4/19/199
+
++ BackTrack Linux (contains MANY tools)
+http://www.backtrack-linux.org/
+
++ Bastille:
+http://bastille-linux.sourceforge.net/
+
++ Baudline:
+http://www.baudline.com/
+https://en.wikipedia.org/wiki/Baudline
+
++ BleachBit:
+http://bleachbit.sourceforge.net/
+http://sourceforge.net/projects/bleachbit/
+
++ BotHunter:
+http://www.bothunter.net/
+
++ Cacti
+http://www.cacti.net/
+
++ Chkrootkit:
+https://en.wikipedia.org/wiki/Chkrootkit
+http://freecode.com/projects/chkrootkit
+(not directly linking to official site url because it's been up/down)
+(the past few weeks)
+
++ Combofix:
+http://www.combofix.org/
+
++ Cuckoo Sandbox:
+http://www.cuckoosandbox.org/
+
++ Dan's Guardian:
+http://dansguardian.org/
+
++ DBAN (Darik's Boot and Nuke):
+http://www.dban.org/
+http://sourceforge.net/projects/dban/
+
++ DDRescue:
+https://www.gnu.org/software/ddrescue/ddrescue.html
+
++ debsecan:
+http://www.enyo.de/fw/software/debsecan/
+
++ Deny Hosts:
+http://denyhosts.sourceforge.net/
+
++ DNSCrypt
+https://www.opendns.com/technology/dnscrypt/
+https://blog.opendns.com/2012/02/16/tales-from-the-dnscrypt-linux-rising/
+https://github.com/opendns/dnscrypt-proxy/blob/master/README.markdown
+https://github.com/opendns/dnscrypt-proxy
+
++ DNSTop:
+http://dns.measurement-factory.com/tools/dnstop/
+
++ EckBox:
+http://eckbox.sourceforge.net
+(offsite article): http://blockyourid.com/~gbpprorg/mil/eckbox/index.html
+
++ Enigmail - a security extension to Mozilla Thunderbird and Seamonkey:
+http://www.enigmail.net/home/index.php
+
++ Enscribe:
+http://www.coppercloudmusic.com/enscribe/
+http://freecode.com/projects/enscribe
+(old) http://web.archive.org/web/20060712151452/http://jbd.zayda.net/enscribe/
+
++ FakeAP
+http://blackalchemy.to/project/fakeap/
+
++ Foremost:
+http://foremost.sourceforge.net/
+
++ GNUPG (GPG):
+http://www.gnupg.org/
+http://www.gnupg.org/related_software/frontends.en.html
+http://www.gnupg.org/related_software/gpa/index.en.html
+http://utils.kde.org/projects/kgpg/
+
++ Honeypots (The Honeynet Project):
+http://project.honeynet.org/tools/index.html
+
++ HTTPS Everywhere (Firefox and Chrome extension):
+https://www.eff.org/https-everywhere
+
++ IPTraf:
+http://iptraf.seul.org/
+http://freecode.com/projects/iptraf
+
++ Jhead:
+http://www.sentex.net/~mwandel/jhead/
+http://freecode.com/projects/jhead
+
++ John The Ripper:
+http://www.openwall.com/john/
+
++ Linux Kernel Archives:
+https://www.kernel.org/
+
++ Kismet: 
+https://kismetwireless.net/
+http://freecode.com/projects/kismet
+
++ LaBrea:
+http://labrea.sourceforge.net/
+
++ Liberté Linux (uses Tor):
+http://dee.su/liberte
+
++ libemu (x86 Shellcode Emulation):
+http://libemu.carnivore.it/
+
++ Lynis (Security and system auditing tool): 
+http://www.rootkit.nl/projects/lynis.html
+https://en.wikipedia.org/wiki/Lynis
+http://freecode.com/projects/lynis
+
++ Mac Changer:
+http://www.alobbs.com/macchanger
+
++ MAT - Metadata Anonymisation Toolkit:
+https://mat.boum.org/
+
++ md5deep and hashdeep: (md5deep is a set of programs to compute MD5, SHA-1, SHA-256, Tiger, or Whirlpool message digests on an arbitrary number of files.)
+                        (hashdeep is a program to compute, match, and audit hashsets.)
+http://md5deep.sourceforge.net/
+http://sourceforge.net/projects/md5deep/
+
++ MCrypt:
+http://mcrypt.sourceforge.net/
+http://sourceforge.net/projects/mcrypt/
+
++ Monkeysphere:
+http://web.monkeysphere.info/
+
++ Nemesis: 
+http://nemesis.sourceforge.net/
+
++ Nessus:
+http://www.nessus.org/
+
++ Network Monitoring Tools @ Stanford.edu:
+http://www.slac.stanford.edu/xorg/nmtf/nmtf-tools.html
+
++ Ninite:
+https://ninite.com/
+
++ NGrep:
+http://ngrep.sourceforge.net/
+
++ NMap:
+http://nmap.org/download.html
+
++ NoMachine NX:
+http://nomachine.com/
+
++ NoScript (Firefox Extension)
+https://addons.mozilla.org/en-US/firefox/addon/noscript/
+
++ NTop:
+http://www.ntop.org/
+http://freecode.com/projects/ntop
+
++ OphCrack:
+http://ophcrack.sourceforge.net/
+
++ OpenSSH:
+http://www.openssh.com/
+
++ OpenSSL:
+http://www.openssl.org/
+
++ Openwall:
+http://www.openwall.com/
+
++ OSSEC: 
+http://www.ossec.net/
+
++ PhotoRec:
+http://www.cgsecurity.org/wiki/PhotoRec
+
++ Polipo (Proxy commonly associated with Tor and TAILS):
+http://freecode.com/projects/polipo
+
++ Rootkits:
+http://packetstormsecurity.org/UNIX/penetration/rootkits/
+
++ Rkhunter:
+https://en.wikipedia.org/wiki/Rkhunter
+http://rkhunter.sourceforge.net/
+(old) http://www.rootkit.nl/projects/rootkit_hunter.html
+
++ Scapy:
+http://www.secdev.org/projects/scapy/
+
++ Seahorse:
+http://projects.gnome.org/seahorse/
+
++ Secure-Delete:
+http://freeworld.thc.org/releases/secure_delete-3.1.tar.gz
+http://packages.ubuntu.com/search?keywords=secure+delete
+
++ Skipfish:
+https://code.google.com/p/skipfish/
+
++ Sleuth Kit (TSK) & Autopsy:
+http://www.sleuthkit.org/
+http://sourceforge.net/projects/sleuthkit/
+
++ SNARE:
+http://sourceforge.net/projects/snare/
+
++ Snort
+http://www.snort.org/
+
++ socat:
+http://www.dest-unreach.org/socat/
+
++ Sophos Linux/RST-B detection tool:
+http://www.sophos.com/rst-detection-tool
+
++ srm - secure file deletion:
+http://srm.sourceforge.net/
+http://sourceforge.net/projects/srm/
+http://freecode.com/projects/srm
+
++ SSDeep:
+http://ssdeep.sourceforge.net/
+
++ SSHMenu: 
+http://sshmenu.sourceforge.net/
+
++ SSLStrip:
+http://www.thoughtcrime.org/software/sslstrip/index.html
+
++ SSSS (Shamir's Secret Sharing Scheme):
+http://point-at-infinity.org/ssss/
+
++ Stegdetect:
+http://www.outguess.org/detection.php
+http://freecode.com/projects/stegdetect
+
++ Steghide:
+http://steghide.sourceforge.net/
+http://www.freecode.com/projects/steghide
+
++ Suricata:
+http://www.openinfosecfoundation.org/
+http://www.openinfosecfoundation.org/index.php/download-suricata
+
++ Switzerland (Network Testing Tool):
+https://www.eff.org/pages/switzerland-network-testing-tool
+
++ System Rescue CD:
+http://www.sysresccd.org/
+
++ Tails LiveCD (uses Tor):
+https://tails.boum.org/
+
++ Tempest for Eliza
+http://www.erikyyy.de/tempest/
+
++ Tiger - Unix security audit and intrusion detection tool:
+http://nongnu.org/tiger/
+
++ Tiger - Cryptographic Hash Function:
+http://www.cs.technion.ac.il/~biham/Reports/Tiger/
+
++ Tor:
+http://metrics.torproject.org/
+https://blog.torproject.org/blog/
+https://bridges.torproject.org/
+https://check.torproject.org/
+https://lists.torproject.org/
+https://weather.torproject.org/
+https://www.torproject.org/
+https://www.torproject.org/about/overview.html.en
+https://www.torproject.org/docs/documentation.html.en
+https://www.torproject.org/download/download-easy.html.en
+https://www.torproject.org/press/press.html.en
+https://www.torproject.org/projects/projects.html.en
+https://www.torproject.org/torbutton/
+https://www.torproject.org/vidalia/
+
++ Tor Chat2:
+https://github.com/prof7bit/TorChat
+https://github.com/prof7bit/TorChat/downloads
+(old/original) https://code.google.com/p/torchat/
+
++ Tor Stats:
+http://torstatus.blutmagie.de/
+
++ Tripwire:
+https://en.wikipedia.org/wiki/Open_Source_Tripwire
+http://sourceforge.net/projects/tripwire/
+
++ TrueCrypt:
+http://www.truecrypt.org/
+http://www.truecrypt.org/docs/
+http://www.truecrypt.org/downloads
+http://www.truecrypt.org/news
+http://forums.truecrypt.org/
+
++ VOIP Hopper:
+http://voiphopper.sourceforge.net/
+
++ Volatility Framework
+https://www.volatilesystems.com/default/volatility#overview
+https://code.google.com/p/volatility/w/list
+http://lists.volatilesystems.com/mailman/listinfo
+
++ WarVOX:
+http://warvox.org/
+
++ Webmin:
+http://www.webmin.com/
+
++ Whirlpool - a cryptographic hash function:
+https://en.wikipedia.org/wiki/Whirlpool_%28cryptography%29
+http://www.larc.usp.br/~pbarreto/WhirlpoolPage.html
+
++ Wipe:
+http://wipe.sourceforge.net/
+
++ Wireshark:
+https://www.wireshark.org/
+
++ Yersinia:
+http://www.yersinia.net/
+
++ Zfone
+http://zfoneproject.com/
+https://en.wikipedia.org/wiki/Zfone
+----------------------------------------
+
+* 6009.3: Linux Various+
+          (most are not directly security related)
+          --------------------
+http://appdb.winehq.org/
+http://blogs.valvesoftware.com/linux/steamd-penguins/
+http://distrowatch.com/
+http://frankscorner.org/
+http://lbproject.sourceforge.net/
+http://linuxgazette.net/
+http://linux.slashdot.org/
+http://linux.sys-con.com/
+http://lxer.com/
+http://olpcnews.com/
+http://oreilly.com/linux/
+http://osdir.com/
+http://packetstormsecurity.org/
+http://planet.debian.org/
+http://planet.gentoo.org/
+http://planet.ubuntu.com/
+https://lwn.net/
+https://wiki.ubuntu.com/UbuntuWeeklyNewsletter/
+https://www.kernel.org/
+https://www.linux.com/
+http://techrights.org/wiki/index.php/Main_Page
+http://tllts.org/
+http://ubuntupocketguide.com/index_main.html
+http://wine-review.blogspot.com/
+http://www.codeweavers.com/
+http://www.gnu.org/philosophy/
+http://www.linuxformat.com/
+http://www.linuxjournal.com/
+http://www.linux-magazine.com/
+http://www.linux-mag.com/
+http://www.linux.org/
+http://www.linuxpromagazine.com/
+http://www.linuxsecurity.com/
+http://www.linuxtag.org
+http://www.linuxuser.co.uk/
+http://www.mail-archive.com/funsec@linuxbox.org/
+http://www.osnews.com/
+http://www.playonlinux.com/en
+http://www.thegeekstuff.com/linux-101-hacks-ebook/
+http://www.tuxarena.com/
+http://www.winehq.org/
+http://www.wine-reviews.net/
+(in limbo?) http://www.desktoplinux.com/news/
+
+----------------------------------------
+** 6010: Windows Security (that's a joke) Tools:
+
++ Attack Surface Analyzer
+https://www.microsoft.com/en-us/download/details.aspx?id=24487
+
++ Flame Removal Tool (32 & 64bit versions):
+http://labs.bitdefender.com/2012/5/cyber-espionage-reaches-new-levels-with-flamer/
+
++ GNUPG (GPG):
+http://www.gnupg.org/
+http://www.gnupg.org/related_software/frontends.en.html
+https://code.google.com/p/cryptophane/
+
++ MobaXterm:
+http://mobaxterm.mobatek.net/
+http://mobaxterm.mobatek.net/download-home-edition
+http://mobaxterm.mobatek.net/download.html
+
++ PhotoRec:
+http://www.cgsecurity.org/wiki/PhotoRec
+
++ PuTTY:
+https://en.wikipedia.org/wiki/PuTTY
+
++ SNARE:
+http://sourceforge.net/projects/snare/
+
++ TDSSKiller Anti-Rootkit Tool:
+http://support.kaspersky.com/faq/?qid=208283363
+
++ WinSCP:
+https://en.wikipedia.org/wiki/WinSCP
+
++ Zfone
+http://zfoneproject.com/
+https://en.wikipedia.org/wiki/Zfone
+
+(Archive/Alive) https://www.techsupportalert.com/content/probably-best-free-security-list-world.htm
+(Article, DOC) http://msdn.microsoft.com/en-us/windows/hardware/gg487309
+(Article) http://resources.infosecinstitute.com/tuluka/
+(Article) https://social.technet.microsoft.com/wiki/contents/articles/942.hyper-v-how-to-detect-if-a-computer-is-a-vm-using-script.aspx
+(Article) http://technet.microsoft.com/library/gg176673.aspx?ITPID=sprblog
+(Article) http://technet.microsoft.com/library/gg176676.aspx?ITPID=sprblog
+(Article) http://www.symantec.com/connect/articles/alien-autopsy-reverse-engineering-win32-trojans-linux
+(Article/Wiki) https://en.wikipedia.org/wiki/Comparison_of_SSH_clients
+(Discontinued Magazine / File downloads) http://www.magnesiummedia.com/pcutilities/
+(doc, leads to ) https://www.microsoft.com/en-us/download/details.aspx?id=24373
+(doc, leads to ) https://www.microsoft.com/en-us/download/details.aspx?id=3118
+(docx, leads to) https://www.microsoft.com/en-us/download/details.aspx?id=20092
+(Forum) https://www.microsoft.com/communities/forums/default.mspx
+(Forum) http://www.sevenforums.com/
+(Forum) http://www.w7forums.com/
+(PDFs) http://www.nsa.gov/ia/mitigation_guidance/security_configuration_guides/operating_systems.shtml
+(Spreadsheet xlsx, leads to) https://www.microsoft.com/en-us/download/details.aspx?id=19990
+(Tutorial) Creating a Steady State by Using Microsoft Technologies / Windows 7 - Part 1/3
+(Tutorial) Creating a Steady State by Using Microsoft Technologies / Windows 7 - Part 2/3
+(Tutorial) Creating a Steady State by Using Microsoft Technologies / Windows 7 - Part 3/3
+(Tutorial) mechBgon's guide 1/3 http://www.mechbgon.com/build/router.html
+(Tutorial) mechBgon's guide 2/3 http://www.mechbgon.com/build/security1.html
+(Tutorial) mechBgon's guide 3/3 http://www.mechbgon.com/build/security2.html
+--------------------------------------------------------------------------------
+This is the end of HUGE Security Resource+ - version 6000 - 08/31/2012
+--------------------------------------------------------------------------------
+We post this publication first at PasteBin.com. Please stay tuned
+for the next version of HUGE Security Resource+. It's not the best
+of names for a publication, but we're lazy, and this is free for
+you.
+
+We do not name, credit, or otherwise pimp out who we are. None of us
+will ever claim credit for this document, previous, present, and future
+versions, anyone who does is lying.
+
+We're not on Facebook, Twitter, or any other whore social media circles,
+nor are we active in the traditional and non traditional areas
+of chatter - including IRC. Every version of this document
+has, is, and will be released as a text file because it's
+easier to share with friends and it lacks ugly metadata.
+
+Please share this document with others, convert it to PDF
+and other formats, but please do not modify the document
+from its original design. Do not add your own links
+for redistribution, rename the document, or claim that
+you wrote it. Please provide a link back to the original
+location @ PasteBin where it's released first.
+
+We don't want anything other than to provide you with a solid
+list of specially chosen sites. Anyone can toss together a
+document with links, but we stay on the hunt for useful links,
+for quality links. It takes time to harvest, prepare, and
+print new links, especially when we have to check the previously
+posted links to ensure they are alive and at the same location
+and if not, we bring the links up to date. Some links are archives,
+some lead directly to PDF files. Surely you've noticed as we've
+made it quite simple to navigate this document with tagging
+special URLs.
+
+A few of the blogs linked within this document haven't been updated
+in awhile, but they remain as a useful archive of information
+generated in past entries, and some bloggers go several weeks,
+months, or a year before returning to their blogs. This does
+not bring down the quality of the blogs linked within, as
+the chosen ones published here were selected on the basis
+of quality.
+
+We'd like to say thanks to CRYPTOME who has been linking
+to our official release pages at PasteBin shortly after
+we release a new version. Thanks Cryptome! And thank you
+to PASTEBIN!
+----------------------------------------
+
+When this document began, in previous versions, it was previously
+known as: HUGE List of Security Blogs: Unix, Linux, Windows,
+part 1, 2, 3, and 4 and changed document names with version
+5000. With version 6000 we renamed the project title from
+'HUGE Security Resource' to 'HUGE Security Resource+',
+meaning, with this version and future versions this document will
+contain more than security related material.
+(currently a work in progress)
+
+PART   #  URL                            Release Date
+------ -  ---------------------------- - -------------
+- part 1: http://pastebin.com/FwjBMJib - Dec 30th,2011
+- part 2: http://pastebin.com/R9gpVemL - Jan 3rd, 2012
+- part 3: http://pastebin.com/vgj3qKDW - Jan 3rd, 2012
+- part 4: http://pastebin.com/F1JcZHLz - Jan 5th, 2012
+- version 5000:
+          http://pastebin.com/M7ZwwVCA - Mar 6th, 2012
+- version 6000:
+                                       - Aug 31th, 2012
+------ -  ---------------------------- - -------------
+
+             Thanks for reading!
+
+If you enjoy this document please tell the admins of the
+websites you visit from within this document where you
+found them and provide them with a link to this
+document.
+=========================================================
+Consideration #1: Are crossword puzzles and similar puzzles
+published in print simply devices to alter the brain by
+inserting carefully prepared words, phrases, and
+numbers into your thought processes in order to trigger
+or establish some type of action, or... connection.. to
+something?
+
+Consideration #2: What if all secret agencies were of one
+accord spiritually, like in the paintings of dogs playing
+poker, just using humanity to play out one big game of
+destruction and domination with humans as the visible and
+spiritual puppets?
+=========================================================
